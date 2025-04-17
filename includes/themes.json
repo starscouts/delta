@@ -1,0 +1,69 @@
+{
+  "default": 15,
+  "list": [
+    {
+      "light": "fefbff,f4f2f9,eeeef5,eaeaf3,e8e8f2,e4e5ef,44474f,1b1b1f,ffffff,435e91",
+      "dark":  "1b1b1f,22232a,272931,2a2d36,2c2f39,2f323d,c4c6d0,e3e2e6,0f2f60,adc7ff"
+    },
+    {
+      "light": "fbfdf8,f0f5ef,e9f0e9,e4ede5,e1ebe3,dde8e0,404943,191c1a,ffffff,266a4a",
+      "dark":  "191c1a,1f2521,222b26,252f29,27312b,29352e,c0c9c1,e1e3df,003822,91d5ad"
+    },
+    {
+      "light": "fffbff,f6f2f9,f1edf5,ede9f3,ebe7f2,e8e4ef,47464f,1c1b1f,ffffff,5d5791",
+      "dark":  "1c1b1f,24232a,2a2831,2e2c36,302e39,33313d,c9c5d0,e5e1e6,2f295f,c7bfff"
+    },
+    {
+      "light": "fffbff,f8f2f3,f4edeb,f1e9e6,f0e7e3,ede4de,504539,1f1b16,ffffff,825514",
+      "dark":  "1f1b16,2a231a,30281d,352b1f,382d20,3c3022,d4c4b5,ebe1d9,472a00,f8bb71"
+    },
+    {
+      "light": "fcfcfc,f7f2f2,f4eced,f1e8e9,f0e5e6,eee2e3,474747,1b1b1b,ffffff,9c4049",
+      "dark":  "1b1b1b,262222,2d2727,332b2b,352c2d,3a2f30,c6c6c6,e2e2e2,5f121e,ffb3b6"
+    },
+    {
+      "light": "fcfcfc,f6f3ef,f2eee7,efeae1,eee8de,ece4d9,474747,1b1b1b,ffffff,885200",
+      "dark":  "1b1b1b,26231e,2d2721,332b23,352d24,3a3025,c6c6c6,e2e2e2,482900,ffb869"
+    },
+    {
+      "light": "fcfcfc,f5f3ef,f0eee7,edebe1,ebe9de,e9e6d9,474747,1b1b1b,ffffff,735c00",
+      "dark":  "1b1b1b,25231d,2b281e,302c1f,332e20,373221,c6c6c6,e2e2e2,3c2f00,e8c349"
+    },
+    {
+      "light": "fcfcfc,f2f4f0,ecefe9,e7ece4,e5eae1,e1e7dd,474747,1b1b1b,ffffff,3b6a1c",
+      "dark":  "1b1b1b,21241f,252a22,292e25,2a3026,2d3428,c6c6c6,e2e2e2,163800,a0d57b"
+    },
+    {
+      "light": "fcfcfc,eff4f7,e7eff4,e1ebf1,deeaf0,d9e7ee,474747,1b1b1b,ffffff,00639b",
+      "dark":  "1b1b1b,212326,25292d,282d33,292f35,2c333a,c6c6c6,e2e2e2,003353,97cbff"
+    },
+    {
+      "light": "fcfcfc,f4f3f7,efeef4,ebeaf2,e9e8f1,e6e4f0,474747,1b1b1b,ffffff,6152a6",
+      "dark":  "1b1b1b,232326,29282d,2d2c33,2f2e35,33313a,c6c6c6,e2e2e2,322075,cabeff"
+    },
+    {
+      "light": "fcfcfc,f5f2f6,f2edf2,efe8f0,ede6ee,ebe3ec,474747,1b1b1b,ffffff,84468d",
+      "dark":  "1b1b1b,262226,2d272d,322a32,342c35,392f3a,c6c6c6,e2e2e2,50145b,f7adfd"
+    },
+    {
+      "light": "fffbff,f9f1f2,f6eceb,f3e8e5,f2e5e3,f0e2de,4e472a,1f1b0d,ffffff,974811",
+      "dark":  "1f1b0d,2a2213,312717,362b1a,392d1c,3d301e,d2c6a1,ebe2cb,542200,ffb68e"
+    },
+    {
+      "light": "fafeea,f3f5de,eff0d6,ececd1,ebeace,e8e7c9,414a33,191d11,ffffff,7d5700",
+      "dark":  "191d11,242513,2b2a15,302d16,332f17,373218,c0caac,e0e5d1,422c00,f9bc49"
+    },
+    {
+      "light": "f9fdff,ecf5f6,e4f1f0,deedec,dbebea,d6e9e7,344a52,121d21,ffffff,006c51",
+      "dark":  "121d21,162628,182c2c,1a3130,1b3332,1d3734,b3cad3,d8e4ea,003829,66dbb2"
+    },
+    {
+      "light": "fffbff,f2f3fa,eaeef7,e4eaf5,e1e8f4,dce5f2,4b4358,1e1a24,ffffff,0061a3",
+      "dark":  "1e1a24,24222f,282836,2b2c3b,2d2e3d,2f3242,cdc2db,e8dfee,003258,9ecaff"
+    },
+    {
+      "light": "fffbff,f7f2fa,f2edf7,eee9f5,ece7f4,e9e3f2,58404d,24181f,ffffff,6351a5",
+      "dark":  "24181f,2c202a,312531,352936,372b39,3b2e3d,debecd,f3dde6,341f74,ccbdff"
+    }
+  ]
+}

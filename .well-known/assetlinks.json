@@ -1,0 +1,12 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.equestria.delta",
+    "sha256_cert_fingerprints":
+    [
+      "DC:3B:75:5A:AF:55:57:C2:41:1C:35:C3:D9:DC:35:10:E3:C9:E3:F5:AC:77:C1:66:C5:C9:BA:D5:D7:68:2E:B3",
+      "ED:58:23:E7:8D:5F:FC:FC:7D:CB:E0:37:88:EA:58:16:42:CA:89:8E:4E:47:4D:43:33:76:4C:7D:46:0E:A0:E2"
+    ]
+  }
+}]

@@ -1,0 +1,1272 @@
+{
+  "login": {
+    "title": "Connexion",
+    "title2": "Connectez-vous à Delta",
+    "notfound": "Cette adresse électronique est inconnue à Delta. Assurez-vous de l'avoir entrée correctement et que vous avez un compte Delta.",
+    "intro": "Commencez par entrer votre adresse électronique. Vous recevrez un courriel à cette adresse contenant un code secret vous permettant de vous connecter à Delta.",
+    "email": "Adresse courriel",
+    "continue": "Continuer",
+    "code": "Un code a été envoyé à %1, il est valide pendant 15 minutes. Ne partagez pas ce code à quiconque même si il/elle dit être un·e administrateur·ice de Delta.",
+    "code2": "Code",
+    "invalid": "Le code que vous avez entré est soit invalide, soit a expiré.",
+    "back": "Vous revoilà %1 !",
+    "done": "Vous êtes maintenant connecté·e à Delta. Si vous êtes sur un appareil partagé, n'oubliez pas de vous déconnecter lorsque vous avez terminé.",
+    "oobe": "Bienvenue sur Delta !",
+    "oobe2": "Ceci est votre endroit pour partager du contenu avec votre famille en quelques minutes seulement. Partager des connaissances, des anecdotes, et même des photos est très simple avec Delta.",
+    "start": "Commencer",
+    "email2": "Juste un détail.",
+    "code3": "Confirmez que c'est bien vous.",
+    "finish": "Terminer",
+    "auth": {
+      "email": "Continuer avec votre adresse courriel",
+      "hub": "Continuer avec un compte Equestria.dev",
+      "apply": "Envoyer une demande de compte"
+    },
+    "oauth2": {
+      "notfound": "L'adresse courriel de votre compte Equestria.dev (%1) n'est pas valide sur Delta"
+    },
+    "eqd": "Se connecter avec",
+    "captcha": "Nous ne parvenons pas à vérifier que vous n'êtes pas un robot, veuillez réessayer."
+  },
+  "home": {
+    "title": "Tableau de bord",
+    "greeting": "Bonjour",
+    "date": "Aujourd'hui, nous sommes le %1.",
+    "birthday": "Aujourd'hui c'est l'anniversaire %1.",
+    "and": "et",
+    "name": "de %1",
+    "update": "a été mis à jour",
+    "family": "Dans votre famille",
+    "because": "Parce que vous avez lu %1",
+    "recent": "Mis à jour récemment",
+    "editor": "Éditeur"
+  },
+  "time": {
+    "display": "%3 %1 %2",
+    "later": "plus tard",
+    "ago": "il y a",
+    "now": "maintenant",
+    "sec": "seconde",
+    "less": "un peu de temps",
+    "mn": "minute",
+    "hr": "heure",
+    "d": "jour",
+    "wk": "semaine",
+    "mo": "mois",
+    "y": "an",
+    "age": "longtemps",
+    "today": "aujourd'hui",
+    "yesterday": "hier",
+    "update": "Cette page a été mise à jour pour la dernière fois %1.",
+    "update_user": "Cette page a été mise à jour pour la dernière fois %1 par %2."
+  },
+  "months": {
+    "jan": "janvier",
+    "feb": "février",
+    "mar": "mars",
+    "apr": "avril",
+    "may": "mai",
+    "jun": "juin",
+    "jul": "juillet",
+    "aug": "août",
+    "sep": "septembre",
+    "oct": "octobre",
+    "nov": "novembre",
+    "dec": "décembre"
+  },
+  "navigation": {
+    "show": "Menu",
+    "hide": "Fermer",
+    "people": "Personnes",
+    "articles": "Articles",
+    "gallery": "Galerie",
+    "events": "Événements",
+    "search": "Recherche",
+    "profile": "Profil",
+    "messages": "Alertes",
+    "upgrade": "Mettre à niveau",
+    "beta": "Derniers changements",
+    "user": {
+      "dashboard": "Tableau de bord",
+      "profile": "Votre profil",
+      "edit": "Modifier votre page",
+      "subscriptions": "Abonnements",
+      "requests": "Demandes en attente",
+      "help": "Aide",
+      "logout": "Se déconnecter"
+    }
+  },
+  "footer": {
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "sales": "Conditions de vente"
+  },
+  "people": {
+    "title": "Personnes",
+    "empty": "Cette personne n'a pas de texte sur sa page.",
+    "state": "État",
+    "gender": "Genre",
+    "relations": "Relations",
+    "home": "Domicile",
+    "civil": "État civil",
+    "birth": "Naissance",
+    "death": "Décès",
+    "marriage": "Mariage",
+    "studies": "Études",
+    "schools": "Écoles",
+    "diplomas": "Diplômes",
+    "level": "Niveau d'éducation",
+    "jobs": "Métiers",
+    "previousjobs": "Métiers précédents",
+    "currentjob": "Métier actuel",
+    "position": "Poste",
+    "workplace": "Lieu de travail",
+    "nextjob": "Prochain métier",
+    "culture": "Culture",
+    "religion": "Religion",
+    "languages": "Langues parlées",
+    "permits": "Permits",
+    "countries": "Pays visités",
+    "dead": "Décédé·e",
+    "notborn": "Pas né·e",
+    "alive": "Vivant·e",
+    "invalid": "Valeur invalide",
+    "female": "Femme",
+    "male": "Homme",
+    "other": "Autre",
+    "transfemale": "Femme trans",
+    "transmale": "Homme trans",
+    "delta": "Profil Delta",
+    "update": "Demander une mise à jour",
+    "notfound": "Introuvable",
+    "parent": "parent",
+    "sibling": "fratrie",
+    "child": "enfant",
+    "grandchild": "petit-enfant",
+    "partner": "partenaire",
+    "greatparent": "grand parent",
+    "advanced": {
+      "alive": {
+        "female": "Vivante",
+        "male": "Vivant"
+      },
+      "notborn": {
+        "female": "Pas née",
+        "male": "Pas né"
+      },
+      "dead": {
+        "female": "Décédée",
+        "male": "Décédé"
+      },
+      "partner": {
+        "married-female": "femme",
+        "married-male": "mari",
+        "married-neutral": "marié·e",
+        "unmarried-female": "petite amie",
+        "unmarried-male": "petit ami"
+      },
+      "parent": {
+        "female": "mère",
+        "male": "père"
+      },
+      "child": {
+        "female": "fille",
+        "male": "fils"
+      },
+      "grandchild": {
+        "female": "petite fille",
+        "male": "petit fils"
+      },
+      "greatparent": {
+        "female": "grand mère",
+        "male": "grand père"
+      },
+      "sibling": {
+        "female": "sœur",
+        "male": "frère"
+      }
+    },
+    "unknown": "Inconnu·e",
+    "lhs": "Collège",
+    "uhs": "Lycée",
+    "ps": "École primaire",
+    "uni": "Études supérieures",
+    "freestudy": "Autre",
+    "edit": "Modifier",
+    "create": "Demander l'ajout d'une nouvelle personne..."
+  },
+  "edit": {
+    "title": "Éditeur",
+    "cancel": "Annuler",
+    "save": "Publier la demande",
+    "confirm": {
+      "title": "Publier cette demande de changement",
+      "description": "Voulez-vous publier vos changements pour être relus par les administrateur·ice·s ? Après avoir publié votre demande, vous pourrez apporter d'autres changements à ce document.",
+      "summary": "Décrivez les changements que vous avez apporté :",
+      "followup": "Vous recevrez une alerte lorsque votre changement est approuvé ou rejeté.",
+      "button": "Publier"
+    },
+    "alert": {
+      "title": "Vous avez une demande de changement pour ce contenu",
+      "message": "Vous avez publié une demande de changement pour ce contenu %1. Vous pouvez continuer de la modifier jusqu'à ce que les administrateur·ice·s l'ait relue.",
+      "message2": "Vous avez publié une demande de changement pour ce contenu %1. Vous devez attendre que cette demande soit relue par les administrateur·ice·s avant de pouvoir en publier une nouvelle."
+    },
+    "preview": "Prévisualisation"
+  },
+  "request": {
+    "title": "Créer une demande de changement",
+    "type": "Type de demande :",
+    "types": {
+      "metaupdate": "Changer les métadonnées d'une page",
+      "add": "Créer une nouvelle page",
+      "addevent": "Créer un événement",
+      "profile": "Modifier les données de votre profil",
+      "addalbum": "Créer un nouvel album de galerie",
+      "rename": "Renommer un article ou un album",
+      "profileother": "Changer les données d'un autre profil",
+      "userreport": "Signaler le comportement d'un utilisateur",
+      "userpage": "Changer le contenu de la page d'une personne",
+      "article": "Changer le contenu d'un article",
+      "galleryupload": "Publier une image sur un album",
+      "gallerymeta": "Changer la description d'un album"
+    },
+    "id": "Identifiant d'objet (ne pas changer si vous n'êtes pas sûr·e) :",
+    "description": "Décrivez ce qui doit être changé. Soyez aussi précis·e que possible et indiquez pourquoi un tel changement est nécessaire.",
+    "submit": "Envoyer une demande de changement"
+  },
+  "articles": {
+    "title": "Articles",
+    "empty": "Cet article est actuellement vide.",
+    "rename": "Renommer",
+    "create": "Demander la création d'un nouvel article..."
+  },
+  "alerts": {
+    "title": "Alertes",
+    "unread1": "%1 non lue",
+    "unread2": "%1 non lues"
+  },
+  "profile": {
+    "title": "Profil",
+    "options": "Options",
+    "report": "Signaler l'utilisateur·ice",
+    "report_male": "Signaler l'utilisateur",
+    "report_female": "Signaler l'utilisatrice",
+    "request": "Demander des changements",
+    "since": "Utilisateur·ice de Delta depuis",
+    "since_male": "Utilisateur de Delta depuis",
+    "since_female": "Utilisatrice de Delta depuis",
+    "last": "Vu·e pour la dernière fois",
+    "last_male": "Vu pour la dernière fois",
+    "last_female": "Vue pour la dernière fois",
+    "pending1": "demande de changement en attente",
+    "pending2": "demandes de changement en attente",
+    "pending3": "Pas de",
+    "old": "",
+    "empty": "Cet·te utilisateur·ice n'a pas encore de description de profil.",
+    "empty_male": "Cet utilisateur n'a pas encore de description de profil.",
+    "empty_female": "Cette utilisatrice n'a pas encore de description de profil.",
+    "editor": "Votre profil",
+    "save": "Publier les changements",
+    "confirm": {
+      "title": "Publier ces changements",
+      "description": "Voulez-vous publier les changements apportés à cette page ? Après les avoir publié, le texte que vous avez entré sera visible par tous les utilisateurs de Delta.",
+      "followup": "Assurez-vous que le contenu de cette page n'est pas inapproprié pour certains utilisateurs, et respectez les règles. Votre compte pourrait être bloqué si vous ne respectez pas cela."
+    },
+    "birth": "né·e le",
+    "birth_male": "né le",
+    "birth_female": "née le",
+    "never": "Ne s'est jamais connecté·e"
+  },
+  "plus": {
+    "kiosk": "Pour des raisons de sécurité, vous ne pouvez pas changer d'abonnement Delta depuis un kiosque Delta. Ouvrez cette page sur votre propre appareil pour mettre à jour votre abonnement.",
+    "coins": "pièces",
+    "intro": "Obtenez des options exclusives pour Delta tout en soutenant les développeurs",
+    "buy": "Acheter maintenant%1 (à partir de %2 pièces/mois)",
+    "terms": "Nécessite un solde de pièces Delta. Des conditions s'appliquent.",
+    "change": "Changer d'offre",
+    "notice": "L'offre actuelle est %1. Peut nécessiter un solde de pièces.",
+    "perks": "Qu'est-ce que nous obtenons avec Delta Plus (pour 2 pièces par mois) ?",
+    "perks2": "Delta Ultra ajoute tout ça pour 5 pièces par mois :",
+    "list": [
+      {
+        "title": "Support technique gratuit",
+        "description": "Les frais de service, de logiciel%1 et d'entrepôt sont tous couverts avec Delta Plus, vous pouvez donc bénéficier de support gratuit n'importe quand. Cependant, les frais matériels ne sont pas couverts%2.",
+        "pretty": "Support technique gratuit pour des services tiers"
+      },
+      {
+        "title": "Relectures plus rapides",
+        "description": "Vos demandes de changement seront relues plus rapidement que celles des utilisateurs sans Delta Plus%1, vous pouvez donc modifier du contenu plus rapidement que jamais.",
+        "pretty": "Priorité dans les relectures de demandes"
+      },
+      {
+        "title": "Actualités en avance",
+        "description": "Quand de nouvelles fonctionnalités sont en cours de développement, vous en êtes informé·e avant leur sortie%1. Vous pourrez même peut-être les tester en avance%2.",
+        "pretty": "Actualités et accès en avant-première"
+      },
+      {
+        "title": "Badge exclusif",
+        "description": "Pour montrer votre soutien, vous obtiendrez un badge Delta Plus exclusif sur votre profil. Tous les utilisateurs de Delta peuvent voir que vous soutenez la plate-forme.",
+        "pretty": "Badge exclusif sur votre profil utilisateur"
+      },
+      {
+        "title": "Possibilité d'imprimer",
+        "description": "Avec un abonnement Delta Plus, vous pouvez imprimer toutes les pages%1 avec l'option d'impression de votre navigateur, pour profiter d'une version physique.",
+        "pretty": "Impression de pages depuis le navigateur"
+      },
+      {
+        "title": "Surnom de profil",
+        "description": "Avec un surnom de profil, vous pouvez avoir un autre nom que les utilisateurs utilisent pour vous%1. Ce surnom remplacera votre nom réel partout sur Delta%2.",
+        "pretty": "Surnom personnalisé pour votre profil et Delta"
+      },
+      null,
+      {
+        "title": "Notifications mobile",
+        "description": "Assez de recevoir des courriels ? Delta Ultra vous permet d'obtenir des notifications de Delta sur votre téléphone, sans utiliser des courriels%1.",
+        "pretty": "Notifications mobiles au lieu des courriels"
+      },
+      {
+        "title": "Coffre-fort",
+        "description": "Prochainement%1. Stockez des fichiers sensibles chiffrés%2 sur Delta pour les garder en sécurité et accessible n'importe quand.",
+        "pretty": "Coffre-fort chiffré zéro accès"
+      }
+    ],
+    "how": "Comment obtenir des pièces Delta ?",
+    "action": "Continuer",
+    "online": {
+      "title": "Utiliser de l'argent réel",
+      "description": "Vous pouvez acheter des pièces Delta avec de l'argent réel en utilisant votre carte bancaire, un chèque ou des espèces%1."
+    },
+    "code": {
+      "title": "Utiliser un code",
+      "description": "Si vous avez récupéré un code de pièces à un événement ou par un administrateur, vous pouvez l'utiliser sur votre compte%1."
+    },
+    "trial": {
+      "title": "Obtenez 5 pièces gratuitement",
+      "description": "Première fois avec Delta Plus ? Vous pouvez obtenir 5 pièces Delta gratuites (2 mois d'abonnement Delta Plus%1)."
+    },
+    "notes": [
+      "Delta Plus est disponible uniquement aux utilisateurs de 16 ans ou plus et sans blocage de compte.",
+      "Des limites s'appliquent, Delta ne peut actuellement pas relire les demandes tout le temps en raison de travail supplémentaire.",
+      "Fonctionnalités pouvant changer avant leur sortie ou être supprimées complètement.",
+      "Stabilité ou utilisabilité des fonctionnalités non garantie jusqu'à leur sortie. Il est attendu que les utilisateurs signalent leurs problèmes aux développeurs.",
+      "Ne supporte que les pages d'articles et de personnes, ne support pas les albums, résultats de recherche ou profils.",
+      "Tous les éléments d'interface ne peuvent pas être personnalisés. Les personnalisations peuvent être désactivées à tout moment par les administrateur·ice·s.",
+      "Les notifications cesseront de fonctionner et les courriels s'enverront de nouveau dés que votre abonnement Delta Ultra expire.",
+      "Ne couvre que les logiciels payants de moins de 20€ en une seule fois, qui est absolument nécessaire et qui n'a pas encore été acheté.",
+      "Le matériel supplémentaire devra être payé par l'utilisateur·ice, soit à Delta ou directement auprès d'un service marchand.",
+      "Les personnes qui ont besoin de changer leur nom d'affichage (personnes transgenre et/ou mariées) peuvent demander à changer leur nom réel à la place.",
+      "Le nom réel de l'utilisateur·ice est toujours affiché sur la page de profil à côté du surnom comme référence.",
+      "Delta peut bloquer votre compte si vous demandez un remboursement et que vous n'avez pas assez de pièces dans votre solde.",
+      "Chaque code ne peut être utilisé qu'une fois et pour le nombre de pièces pour lequel il a été conçu. Aucune carte bancaire nécessaire.",
+      "L'essai gratuit de 5 pièces est disponible seulement aux utilisateurs qui n'ont pas acheté de pièces Delta et n'ont pas utilisé de code."
+    ],
+    "subscribe": {
+      "title": "Changer d'abonnement Delta",
+      "title2": "Sélectionnez votre abonnement",
+      "base": "Accès à tout Delta gratuitement",
+      "down": "Rétrograder",
+      "up": "Mettre à niveau",
+      "free": "Gratuit",
+      "help": "Aide et support gratuits pour les services Delta",
+      "current": "Abonnement actuel",
+      "coin": "pièces par mois",
+      "monthly": "%1 € par mois"
+    },
+    "confirm": {
+      "title": "Confirmer le changement d'abonnement",
+      "up": "Mise à niveau de %1 vers %2",
+      "down": "Rétrogradation de %1 vers %2",
+      "cost": "Coût du changement : %1 pièces",
+      "balance": "Changement de solde : %1 pièces → %2 pièces",
+      "missing": "Votre solde actuel (%1 pièces) est insuffisant pour effectuer ce changement. Vous avez besoin d'au moins %2 pièces pour changer votre abonnement vers %3.",
+      "renewal": "Vous serez débité·e de %1 pièces chaque mois (prochain renouvellement le %3)",
+      "norenewal": "Vous ne serez jamais débité·e de pièces",
+      "proceed": "Continuer avec %1",
+      "up2": "la mise à niveau",
+      "down2": "la rétrogradation",
+      "email": "Vous recevrez un courriel de confirmation après avoir cliqué ce bouton",
+      "refund": [
+        "Avertissement :",
+        "Vous ne serez pas remboursé des pièces utilisées pour payer le mois d'abonnement actuel et votre abonnement se terminera immédiatement. Il est recommandé d'attendre d'être proche de la fin du mois d'abonnement pour terminer l'abonnement."
+      ]
+    },
+    "trial1": {
+      "title": "Essai gratuit de pièces",
+      "unavailable": "Vous n'êtes pas éligible pour un essai gratuit de pièces. Seuls les comptes qui n'ont pas utilisés Delta Plus, Delta Ultra, un code de pièces Delta, l'essai gratuit de pièces et qui n'ont pas acheté de pièces sont éligibles.",
+      "intro": "Parce qu'il s'agit de votre première fois avec Delta Plus/Ultra et avec les pièces Delta, vous pouvez bénéficier de 5 pièces gratuites. Ces 5 pièces sont suffisantes pour payer un moins d'abonnement Delta Plus (et un mois d'abonnement Delta Ultra si vous ajoutez 3 pièces).",
+      "message": "En récupérant vos 5 pièces maintenant, vous ne pourrez plus les récupérer plus tard (essai gratuit unique) et elles seront automatiquement ajoutées à votre solde. Votre abonnement ne sera pas mis à jour (vous n'obtiendrez pas automatiquement Delta Plus).",
+      "success": "5 pièces ont été ajoutées à votre solde, vous pouvez maintenant les utiliser pour acheter un abonnement Delta Plus ou ajouter 3 pièces supplémentaires et obtenir un abonnement Delta Ultra. N'hésitez pas à contacter les administrateur·ice·s si vous avez besoin d'aide."
+    },
+    "usecode": {
+      "title": "Utiliser un code de pièces Delta",
+      "intro": "Entrez votre code de pièces Delta ici :",
+      "placeholder": "XXXXX-XXXXX-XXXXX",
+      "continue": "Continuer",
+      "used": "Le code que vous avez entré a déjà été utilisé ou n'existe pas.",
+      "use": "Utiliser le code",
+      "usable": "Ce code contient %1 pièces. Après avoir utilisé ce code, il ne sera pas réutilisable et vous obtiendrez %1 pièces sur votre compte.",
+      "success": "Vous avez utilisé ce code et avez crédité votre compte de %1 pièces.",
+      "me": "Vous avez utilisé ce code %1."
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "empty": "Cet album ne contient aucune image.",
+    "upload": "Publier une image",
+    "uploader": "Publiée par",
+    "create": "Demander la création d'un nouvel album..."
+  },
+  "upload": {
+    "title": "Publier une image dans cet album",
+    "select": "Sélectionnez le fichier que vous voulez publier dans cet album.",
+    "confirm": "Publier cette image",
+    "notice": "Voulez-vous publier cette image pour être revue par les administrateur·ice·s ? Assurez-vous qu'il s'agit de la bonne image avant de l'envoyer, étant donné que vous ne pouvez pas la modifier après.",
+    "summary": "En option, décrivez cette image et pourquoi elle doit être ajoutée à cet album :",
+    "followup": "Vous recevrez une alerte quand votre publication est approuvée ou rejetée.",
+    "dialog": "Publier cette image",
+    "error": "Erreur : ",
+    "errors": {
+      "unreceived": "Le serveur n'a pas reçu l'image",
+      "internal": "Une erreur interne s'est produite lors du traitement de ce fichier",
+      "type": "Le type d'image reçu n'est pas supporté par le serveur"
+    },
+    "success": [
+      "Terminé : ",
+      "L'image a correctement été transmise aux administrateur·ice·s.",
+      "En publier une autre."
+    ]
+  },
+  "notifications": {
+    "reject": {
+      "title": "Votre demande a été rejetée",
+      "message": "Votre demande sur \"%1\" publiée le %2 à %3 GMT a été rejetée par les administrateur·ice·s. Contactez-les pour plus d'informations."
+    },
+    "approve": {
+      "title": "Votre demande a été approuvée",
+      "message": "Votre demande sur \"%1\" publiée le %2 à %3 GMT a été approuvée par les administrateur·ice·s. Le contenu a déjà été mis à jour."
+    },
+    "renewal1": {
+      "title": "Votre abonnement Delta Plus a été renouvelé",
+      "message": "%1 pièces ont été débitées de votre solde pour renouveler votre abonnement Delta Plus, le prochain renouvellement aura lieu le %2."
+    },
+    "renewal2": {
+      "title": "Votre abonnement Delta Ultra a été renouvelé",
+      "message": "%1 pièces ont été débitées de votre solde pour renouveler votre abonnement Delta Ultra, le prochain renouvellement aura lieu le %2."
+    },
+    "expired1": {
+      "title": "Votre abonnement Delta Plus a expiré",
+      "message": "Votre abonnement Delta Plus s'est arrêté car vous n'avez plus assez de pièces pour payer un autre mois. Tous vos avantages ont été désactivés."
+    },
+    "expired2": {
+      "title": "Votre abonnement Delta Ultra a expiré",
+      "message": "Votre abonnement Delta Ultra s'est arrêté car vous n'avez plus assez de pièces pour payer un autre mois. Tous vos avantages ont été désactivés."
+    },
+    "birthday": {
+      "title": "Joyeux anniversaire !",
+      "message": "Aujourd'hui, c'est votre anniversaire ! Pour célébrer cela, nous avons ajouté 4 pièces à votre solde."
+    },
+    "block0": {
+      "title": "Tous les blocages ont été retirés de votre compte",
+      "message": "Les blocages qui été précédemment actifs sur votre compte ont été retirés par les administrateur·ice·s. Vous pouvez maintenant utiliser tout Delta."
+    },
+    "block1": {
+      "title": "Vous êtes bloqué de modifications de votre page",
+      "message": "En raison d'une utilisation abusive, les administrateur·ice·s ont promulgué un blocage sur votre compte qui vous empêche de modifier votre page personnelle. Contactez-les pour plus d'informations."
+    },
+    "block2": {
+      "title": "Vous êtes bloqué de demandes de changements",
+      "message": "En raison d'une utilisation abusive, les administrateur·ice·s ont promulgué un blocage sur votre compte qui vous empêche de publier des demandes de changement. Contactez-les pour plus d'informations."
+    },
+    "block3": {
+      "title": "Votre compte est bloqué de façon permanente",
+      "message": "Les administrateur·ice·s ont bloqué votre compte de sorte que vous ne pouvez plus utiliser ou vous connecter à Delta jusqu'à nouvel ordre. Ouvrez Delta maintenant pour plus de détails."
+    }
+  },
+  "blocked": {
+    "own": "Vous ne pouvez actuellement pas modifier votre page personnelle car un·e administrateur·ice a placé une restriction sur votre compte vous rendant incapable de modifier votre page. Cela arrive généralement à cause d'un abus ou d'une violation d'une règle.",
+    "edit": "Vous ne pouvez actuellement pas modifier ce contenu car un·e administrateur·ice a placé une restriction sur votre compte vous rendant incapable de modifier votre page ou n'importe quel autre contenu sur Delta. Cela arrive généralement à cause d'un abus ou d'une violation d'une règle.",
+    "request": "Vous ne pouvez actuellement pas créer cette demande de changement car un·e administrateur·ice a placé une restriction sur votre compte vous rendant incapable de créer des demandes de changement sur Delta. Cela arrive généralement à cause d'un abus ou d'une violation d'une règle.",
+    "error": "Si vous pensez qu'il s'agit d'une erreur, merci de contacter un·e administrateur·ice.",
+    "login": {
+      "title": "Compte bloqué",
+      "title2": "Votre compte a été bloqué",
+      "message": [
+        "Bonjour %1,",
+        "Nous ne pouvons pas vous laisser vous connecter à Delta car votre compte a été bloqué de façon permanente par les administrateur·ice·s. Cela signifie que vous ne pouvez pas accéder à Delta du tout.",
+        "Cela arrive lorsque vous faites quelque chose de vraiment pas bien, tel que :",
+        "partager du contenu de Delta à des utilisateurs externes sans accord préalable ;",
+        "partager votre compte personnel avec plusieurs personnes ;",
+        "utiliser Delta à des fins illicites ;",
+        "donner des informations personnelles fausses ou imprécises aux administrateur·ice·s ;",
+        "manquer de respect aux administrateur·ice·s ;",
+        "et toute autre raison jugée importante.",
+        "Les informations de votre compte sont sans doute toujours disponibles sur Delta et peuvent être récupérées dans l'éventualité où ce n'est pas normal (les erreurs peuvent arriver). Si ce blocage est réellement légitime, toutes les données de votre compte seront supprimées des serveurs de Delta dans quelques semaines.",
+        "Nous comprenons que cela peut être frustrant, mais nous tenons à vous rappeler que, lorsqu'il y a des règles, vous devez les respecter. Delta a des règles que vous devez respecter pour pouvoir utiliser le service.",
+        "Notez, cependant, qu'utiliser le compte d'un ami/fraternel/parent ou de n'importe qui d'autre pour accéder à Delta à vos propres fins est interdit et pourra mener à un blocage de leur compte aussi, et cela, sans avertissement et dans déblocage possible.",
+        "Si vous pensez que cela n'est pas normal, merci de contacter les administrateur·ice·s (et n'oubliez pas de rester courtois) ; ils/elles pourront vous demander certaines informations qui étaient présentes sur votre compte."
+      ],
+      "id": "Identifiant utilisateur·ice :",
+      "date": "Compte créé"
+    }
+  },
+  "email": {
+    "reasons": {
+      "login": "Vous recevez ce courriel car vous avez essayé de vous connecter à Delta.",
+      "login2": "Vous recevez ce courriel car vous vous êtes connecté à Delta.",
+      "alert": "Vous recevez ce courriel car vous avez de nouvelles alertes. Vous voulez des notifications sur votre téléphone ? Obtenez Delta Ultra maintenant.",
+      "update": "Vous recevez ce courriel car votre abonnement Delta a changé."
+    },
+    "code": {
+      "title": "[Delta] Votre code secret de connexion",
+      "message": [
+        "Bonjour,",
+        "Quelqu'un (probablement vous) essaye de se connecter à Delta. Pour poursuivre, vous aurez besoin de ce code de connexion :",
+        "Ne donnez pas ce code à qui que ce soit, même si il/elle dit être un·e administrateur·ice de Delta.",
+        "Les administrateur·ice·s de Delta ne vous demanderont jamais vos codes de connexion. Si vous n'êtes pas à l'origine de cette demande, vous pouvez ignorer ce message. Cela ne signifie pas que quelqu'un a obtenu l'accès à votre compte."
+      ]
+    },
+    "alerts": {
+      "title": [
+        "[Delta] Vous avez %1 nouvelles alertes sur votre compte",
+        "[Delta] Vous avez une nouvelle alerte sur votre compte"
+      ],
+      "message": [
+        "Bonjour,",
+        "Les choses ont changé sur Delta depuis votre dernière visite. Voici ce qu'il s'est passé :",
+        "Vous trouverez ces messages sur la page « Alertes » de Delta, où vous pouvez les marquer comme lues. Vous ne recevrez ce courriel qu'une seule fois."
+      ]
+    },
+    "login": {
+      "title": "[Delta] Nouvelle connexion sur votre compte Delta",
+      "message": [
+        "Bonjour,",
+        "Quelqu'un (probablement vous) vient de se connecter à Delta. Pour s'assurer que c'était bien vous, voici quelques informations sur la connexion, incluant le lieu depuis lequel elle a été effectuée :",
+        "Si vous n'avez pas fait de connexion à Delta, quelque chose s'est sérieusement mal passé et vous devriez contacter les administrateur·ice·s immédiatement afin qu'il puissent investiguer le problème avec vous.",
+        "Si c'était vous, vous pouvez ignorer ce message."
+      ]
+    },
+    "plan": {
+      "title": "[Delta] Votre abonnement a changé",
+      "message": [
+        "Bonjour,",
+        "Nous vous informons que, à la suite de votre demande, votre abonnement Delta à changé. Vous utilisez maintenant %1 pour %2 pièces par mois.",
+        "Plus d'informations sur votre abonnement, telles que la date du prochain renouvellement et votre solde actuel, sont disponibles sur Delta.",
+        "Si vous n'êtes pas à l'origine de cette demande, ne changez pas votre abonnement et contactez les administrateur·ice·s dans les 48 prochaines heures. Ils/elles vous aideront à obtenir un remboursement des frais de mise à jour."
+      ]
+    }
+  },
+  "search": {
+    "title": "Recherche",
+    "placeholder": "Rechercher des personnes, articles ou utilisateur·ice·s sur Delta...",
+    "submit": "Rechercher",
+    "none": "Aucun résultat trouvé."
+  },
+  "logout": {
+    "title": "Se déconnecter de Delta",
+    "confirm": "Si vous vous déconnectez de Delta, vous devrez de nouveau vous connecter avec votre adresse courriel. Vous continuerez de recevoir des alertes par courriel ou des notifications sur votre téléphone.",
+    "yes": "Me déconnecter",
+    "no": "Annuler"
+  },
+  "requests": {
+    "title": "Demandes en attente",
+    "on": "le",
+    "date": "publié",
+    "cancel": "Annuler",
+    "confirm": {
+      "title": "Annuler cette demande",
+      "message": [
+        "Voulez-vous vraiment annuler la demande suivante :",
+        "Les administrateur·ice·s peuvent voir votre demande même après l'avoir supprimée, mais ils/elles ne peuvent pas agir dessus."
+      ],
+      "yes": "Supprimer",
+      "no": "Annuler"
+    },
+    "none": "Vous n'avez aucune demande en attente."
+  },
+  "content": {
+    "title": "Contenu"
+  },
+  "mobile": {
+    "title": "Profil et préférences",
+    "profile": "Votre profil",
+    "alerts": "Alertes et messages",
+    "subscriptions": "Abonnements et pièces",
+    "pending": "Demandes de changement en attente",
+    "support": "Aide et support Delta",
+    "beta": "Derniers changements Delta Beta",
+    "admin": "Options administratives",
+    "end": [
+      "L'application Delta Android s'en va.",
+      "Nous arrêtons l'application mobile Delta prochainement. Merci d'utiliser Delta dans votre navigateur Web dès à présent."
+    ],
+    "bye": {
+      "title": "Cette application ne fonctionne plus désormais",
+      "text": [
+        "Merci pour votre long soutien envers la plateforme Delta pour Android.",
+        "Malheurseuement, l'application Delta pour Android a été abandonnée et ne pourra plus fonctionner à nouveau. Vous êtes fortement invité·e à utiliser Delta d'une autre façon désormais.",
+        "Pour utiliser Delta depuis votre navigateur Web par défaut, entrez « delta.equestria.dev » comme adresse et connectez-vous de nouveau à cet endroit. Notez que vous ne recevrez pas de notifications mobiles depuis votre navigateur.",
+        "Vous pouvez maintenant fermer cette application et la désinstaller."
+      ]
+    }
+  },
+  "support": {
+    "title": "Centre d'aide",
+    "greeting": "Vous avez un problème ? Nous sommes là pour vous aider",
+    "intro": "Avec quoi rencontrez-vous des problèmes ?",
+    "issues": [
+      "Connexion et envoi de courriels",
+      "Éditeur de texte",
+      "Lecture des pages",
+      "Galerie",
+      "Recherche et fonctionnalités intelligentes",
+      "Lecture et modifications des profils",
+      "Lecture et gestion des alertes",
+      "Delta Plus, Delta Ultra et pièces Delta",
+      "Création de demandes de changements",
+      "Application mobile (Android)",
+      "Contacter les administrateur·ice·s/quelque chose d'autre"
+    ],
+    "titles": [
+      "Problèmes concernant la connexion et l'envoi de courriels",
+      "Problèmes pour utiliser l'éditeur de pages",
+      "Problèmes pour lire des pages sur Delta",
+      "Problèmes pour utiliser la galerie",
+      "Problèmes pour utiliser la recherche et les autres fonctionnalités intelligentes",
+      "Problèmes pour modifier votre profil et en lire d'autres",
+      "Problèmes pour accéder, lire et gérer les alertes",
+      "Problèmes pour utiliser un abonnement ou des pièces",
+      "Problèmes pour créer et gérer les demandes de changement",
+      "Problèmes pour utiliser l'application Delta pour Android",
+      "Contacter les administrateur·ice·s ou régler d'autres problèmes"
+    ],
+    "back": "Retourner en arrière et sélectionner un autre type de problème",
+    "types": [
+      [
+        "Nouns ne parvenons pas à nous connecter à Delta",
+        "Nous ne recevons pas de courriels de Delta",
+        "Nous souhaitons changer notre adresse courriel",
+        "Nous voulons empêcher les courriels de Delta d'aller dans notre dossier de spam",
+        "Nous ne recevons pas de courriels pour les nouvelles alertes",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Ce que nous voyons sur l'éditeur n'est pas ce que nous voyons après avoir publié nos changements",
+        "Nous ne peux pas ajouter d'images à notre document",
+        "Nous ne peux pas ajouter de contenu multimédia à notre document",
+        "Notre document ne s'affiche pas correctement sur tous les appareils",
+        "Nous voulons créer un lien vers d'autres pages de Delta",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Les éléments sur une page ne s'alignent pas correctement",
+        "Le contenu d'une page est trop grand/petit/étroit/large",
+        "Une page ne s'affiche pas correctement",
+        "Une page s'affiche comme vide alors qu'elle ne l'est pas",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Les images de la galerie ne chargent pas",
+        "Les images de la galerie n'ont pas la bonne date de publication",
+        "Nous ne pouvons pas publier d'images dans la galerie",
+        "Les images de la galerie ne sont pas belles",
+        "Nous ne pouvons pas cliquer sur les images de la galerie",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "La recherche ne nous donne pas de résultats pertinents",
+        "La recherche ne fonctionne pas",
+        "La recherche nous donne des résultats inappropriés",
+        "Les fonctionnalités intelligentes ne fonctionnent pas correctement",
+        "Les actions automatisées ne se comportent pas correctement",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Nous ne pouvons pas voir le profil de quelqu'un d'autre",
+        "Nous ne pouvons pas voir notre propre profil",
+        "Nous ne pouvons pas modifier notre page personnelle",
+        "Nous ne voyons pas les informations sur notre profil",
+        "Nous ne voyons pas les informations sur le profil de quelqu'un d'autre",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Nous ne pouvons pas marquer une alerte comme (non) lue",
+        "Nous ne recevons aucune alerte",
+        "Nous ne recevons pas de courriels pour les nouvelles alertes",
+        "Nous ne recevons pas de notifications pour les nouvelles alertes (abonnés Delta Ultra)",
+        "Nous ne voyons aucune alerte",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Notre solde de pièces Delta est incorrect",
+        "Notre abonnement Delta a changé sans notre consentement",
+        "Nous ne pouvons pas ajouter de pièces à notre compte",
+        "Nous ne pouvons pas acheter Delta Plus ou Delta Ultra",
+        "Nous ne pouvons pas rétrograder notre abonnement",
+        "Le code qui nous a été donné ne fonctionne pas",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Toutes nos demandes de changement sont rejetées",
+        "Nous voulons savoir pourquoi nos demandes de changement sont rejetées",
+        "Nous ne pouvons pas faire de demande de changement",
+        "Nous ne recevons pas de réponse à nos demandes de changement",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Nous ne pouvons pas installer/mettre à jour/désinstaller l'application",
+        "Nous ne recevons pas de notifications pour les nouvelles alertes (abonnés Delta Ultra)",
+        "Nous ne restons pas connecté(e) à l'application",
+        "Les liens Delta ne s'ouvrent pas dans l'application",
+        "L'application est moche",
+        "Nous avons installé l'application mais elle ne fonctionne pas",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ],
+      [
+        "Nous voulons changer la langue de notre compte",
+        "Nous voulons récupérer une copie de nos données personnelles",
+        "Nous voulons utiliser un programme pour automatiser des actions",
+        "Nous rencontrons des difficultés avec une fonctionnalité expérimentale (abonnés Delta Plus)",
+        "Delta nous a dit de contacter les administrateur·ice·s",
+        "Notre problème n'est pas dans la liste ci-dessus"
+      ]
+    ],
+    "go": {
+      "message": "Sélectionnez comment vous souhaitez obtenir de l'aide :",
+      "ways": [
+        "Messages SMS/Signal (recommandé)",
+        "Courriel"
+      ],
+      "warning": "Ne donnez jamais de code de connexion aux administrateur·ice·s et ne changez aucun paramètre, même lorsqu'un·e administrateur·ice le demande. À la place, vous pourriez avoir besoin de donner ce code : %1.",
+      "phone": [
+        "Vous pouvez contacter les administrateur·ice·s en envoyant des messages SMS et/ou des messages Signal (en utilisant l'application Signal sur votre téléphone) au %1. Assurez-vous de mentionner que vous êtes un·e utilisateur·ice Delta.",
+        "Notez que vous devez envoyer un message et ne pas appeler le numéro ci-dessus, car les administrateur·ice·s ne répondent pas aux appels de personnes non-enregistrées. Toute tentative d'appel n'obtiendra pas de réponse."
+      ],
+      "email": [
+        "Vous pouvez contacter les administrateur·ice·s par courriel à %1. Assurez-vous de mentionner que vous êtes un·e utilisateur·ice Delta, et ajoutez des détails précis sur le problème que vous rencontrez pour qu'il soit réglé rapidement.",
+        "Votre demande par courriel peut prendre jusqu'à une semaine avant de recevoir une réponse initiale. Utilisez l'aide par courriel uniquement si vous ne pouvez pas utiliser l'aide par SMS/Signal. Toute demande qui ne donne pas suffisamment d'informations sera ignorée."
+      ]
+    },
+    "rules": "Règles de la communauté Delta"
+  },
+  "beta": {
+    "title": "Derniers changements",
+    "title2": "Actualités Delta Beta",
+    "message": "Cliquez sur une entrée d'actualités pour obtenir plus d'informations à son sujet.",
+    "affected": "Concerne",
+    "users": "les utilisateur·ice·s %1",
+    "public": "non connecté·e·s",
+    "published": "Publié",
+    "version": "Version de Delta",
+    "php": "Version du langage PHP",
+    "build": "Compilé pour",
+    "api": "S'exécute sur",
+    "engine": "Version du moteur",
+    "latency": "Temps de traitement de %1 ms",
+    "os": "Système d'exploitation",
+    "process": "Processus sur le serveur",
+    "root": "Installé à",
+    "network": "Routage réseau",
+    "new": "Nouveau"
+  },
+  "badges": {
+    "admin": "Personnel Delta",
+    "eap": "Accès anticipé",
+    "hunter": "Chasseurs de bugs Delta"
+  },
+  "download": {
+    "action": "Télécharger les données",
+    "title": "Télécharger les données personnelles",
+    "title2": "Télécharger une copie de vos données personnelles",
+    "intro": [
+      "Conformément au Règlement Général sur la Protection des Données de l'Union européenne, Delta vous fournit une option pour télécharger toutes vos données personnelles. Cela inclut votre profil, les modifications que vous avez fait, votre historique de navigation, et plus.",
+      "Notez, cependant, que nous ne pouvons pas garantir que ces données sont facilement lisibles pour des personnes non-expertes. Si vous avez besoin d'aide pour lire les données que vous téléchargez, vous pouvez contacter les administrateur·ice·s. Une fois vos données exportées, vous ne pouvez pas les importer à nouveau sur Delta. Si vous voulez apporter des modifications à vos données personnelles, faites le vous-même ou contactez les administrateur·ice·s pour le faire à votre place.",
+      "Récupérer tous les morceaux de données pour vous peut prendre un certain temps, alors soyez patient·e."
+    ],
+    "start": "Commencer le téléchargement",
+    "files": {
+      "user": "Informations utilisateur·ice",
+      "requests": "Demandes de changement",
+      "gallery": "Images de galerie",
+      "pending": "En attente",
+      "closed": "Fermées",
+      "public": "Publiques",
+      "deleted": "Supprimées",
+      "history": "Historique",
+      "profile": "Informations de profil",
+      "avatar": "Photo de profil",
+      "uploads": "Images importées sur les pages"
+    },
+    "name": "Export de données Delta pour %1",
+    "kiosk": "Télécharger une copie de vos données personnelles n'est pas possible depuis un kiosque Delta. Ouvrez cette page sur votre propre appareil pour continuer."
+  },
+  "editor": {
+    "items": "Plus d'options de mise en forme",
+    "add": "Insérer du contenu"
+  },
+  "rules": {
+    "intro": "Les utilisateurs de Delta font partie d'une communauté. De ce fait, comme pour toute communauté, ils doivent respecter certaines règles pour assurer que leur expérience (et celle des autres) reste agréable. Tout manquement à ces règles mènera à des sanctions.",
+    "recaptcha": "Delta utilise des programmes automatisés pour assurer le respect des règles suivantes. Certains de ces programmes sont fournis par Google et leur technologie reCAPTCHA en accord avec leurs %1conditions d'utilisation%2 et %3politique de confidentialité%4. Aucune de vos données utilisateur Delta ne sont transmises à Google.",
+    "sections": [
+      "Accès à Delta",
+      "Contenu textuel et graphique",
+      "Opérations administratives et modération",
+      "Sécurité et confidentialité",
+      "Options et abonnements payants",
+      "Garantie et problèmes techniques"
+    ],
+    "lines": [
+      [
+        "Les utilisateurs âgés de moins de sept (7) ans ne sont strictement pas autorisés à accéder à la plateforme. Les utilisateurs âgés de moins de treize (13) ans ne sont autorisés à accéder la plateforme qu'avec le consentement de leur parent ou responsable légal.",
+        "Les utilisateurs âgés de moins de seize (16) ans peuvent ne pas être autorisés à accéder à certaines fonctionnalités de la plateforme.",
+        "Seuls les membres de la famille ou proches sont autorisés à accéder à la plateforme.",
+        "Le partage d'un seul compte de la plateforme avec une autre personne physique n'est pas autorisé.",
+        "Les utilisateurs ayant commis un crime ou un délit ne sont pas autorisés à utiliser la plateforme.",
+        "Un moyen valide de prouver son identité, incluant sa date de naissance, est nécessaire pour accéder à la plateforme.",
+        "Au moins une adresse courriel valide est requise pour utiliser la plateforme. De plus, un numéro de téléphone valide est recommandé mais pas requis.",
+        "Pour certaines opérations, le personnel administratif de la plateforme peut demander à un utilisateur d'utiliser un autre moyen de prouver son identité.",
+        "Le personnel administratif peut refuser l'accès d'utilisateur à la plateforme si il n'est pas en mesure de prouver son identité."
+      ],
+      [
+        "Le contenu doit être dans la langue précisée sur la plateforme. L'utilisation d'une autre langue nécessite qu'une traduction précise soit fournie.",
+        "L'utilisation de texte vulgaire ou explicite n'est pas permise.",
+        "Toutes les images présentes au travers de toute la plateforme doit être acceptable pour les personnes de tout âge. Cela signifie que le contenu violent, sexuellement explicite, ou vulgaire n'est pas autorisé.",
+        "Le consentement d'une personne est requis pour publier une image sur laquelle elle est présente. L'incapacité à respecter cette règle peut mener à des poursuites judiciaires.",
+        "Le contenu publié sur la plateforme doit être d'une qualité respectable. Cela signifie que le contenu qui ne fournit pas d'information réellement utile n'est pas autorisé.",
+        "Le contenu sur la plateforme doit être complètement inclusif. Tout contenu irrespectueux envers les personnes ayant un·e certain·e orientation sexuelle, identité de genre, identité en général, trouble physique ou mental, ou faisant partie d'une minorité, est interdit.",
+        "Le contenu qui n'est pas possédé par la personne qui le rédige sur la plateforme doit mentionner la source originelle ainsi que l'auteur. Si l'accès au contenu original nécessite un paiement, le contenu n'est pas autorisé sur la plateforme.",
+        "Tout le contenu publié sur la plateforme peut être lu, modifié, supprimé et réutilisé par tous les autres utilisateurs de la plateforme, indépendamment de l'état de leur compte.",
+        "Le contenu sur la plateforme est strictement confidentiel et ne doit pas quitter la plateforme sans le consentement des personnes concernées."
+      ],
+      [
+        "Contacter le personnel administratif de la plateforme lorsque cela n'est pas nécessaire est interdit.",
+        "Les utilisateurs doivent respecter le personnel administratif ou tout personnel administratif de la plateforme et ne doit pas être violent à leur égard. Un utilisateur violent ne recevra pas d'aide et pourrait voir son compte suspendu.",
+        "Les décisions de modération peuvent être prises automatiquement, en utilisant un programme automatisé. Ces actions sont égales à celles effectuées par le personnel administratif.",
+        "Les utilisateurs ne doivent pas tenter de modérer la plateforme par eux mêmes. Si une situation nécessite l'action de l'administration, les utilisateurs concernés doivent entrer en contact avec le personnel administratif.",
+        "Il est nécessaire que les utilisateurs fournissent au personnel administratif des informations personnelles réelles, précises et à jour pour pouvoir accéder et utiliser la plateforme.",
+        "Le personnel administratif est autorisé à restreindre la capacité d'une personne à utiliser la plateforme à n'importe quel moment, sans avertissement préalable, et sans donner de raison précise.",
+        "Le personnel administratif est autorisé à retirer du contenu de la plateforme sans fournir de raison spécifique."
+      ],
+      [
+        "La publication de contenu comprenant un programme ou code malveillant n'est pas autorisée, peu importe que cela soit voulu ou non.",
+        "Un utilisateur ne doit pas publier les informations personnelles d'un autre utilisateur sans son consentement écrit préalable. L'incapacité à respecter cela peut mener à des poursuites judiciaires.",
+        "La plateforme collecte des données supplémentaires sur le comportement des utilisateurs afin d'améliorer l'expérience utilisateur et les performances. Un utilisateur peut consulter les données collectées le concernant en téléchargeant une copie.",
+        "L'option pour télécharger une copie des données utilisateur ne télécharge que les données associées à l'utilisateur actuellement connecté, et pourrait ne pas inclure les données stockées anonymement.",
+        "Pour des raisons de transparence, certaines informations utilisateur sont accessible publiquement par défaut. Cela permet d'éviter les fraudes et abus.",
+        "Étant donné que la plateforme est accessible aux personnes d'au moins sept (7) ans, il est important que tout le contenu sur la plateforme reste convenable pour les enfants.",
+        "La plateforme ne communique pas l'état immédiat d'un utilisateur (si il est actif ou non) et autorise les utilisateurs à arrêter de recevoir des notifications mobile à n'importe quel moment.",
+        "La plateforme ne communique avec un utilisateur que par le biais de son téléphone portable ou son adresse courriel.",
+        "Le personnel administratif de la plateforme se réserve le droit d'utiliser les informations personnelles d'un utilisateur afin d'entrer en contact avec lui dans l'éventualité où une telle action est nécessaire.",
+        "Toutes les données personnelles sur la plateforme ne seront jamais échangées, données, vendues ou louées à des tiers, et ne quitteront pas les serveurs officiels de la plateforme."
+      ],
+      [
+        "Les utilisateurs âgés de moins de seize (16) ans ne sont pas autorisés à souscrire à un abonnement payant de la plateforme. Ils sont cependant autorisés à posséder la monnaie virtuelle de la plateforme (« pièces »).",
+        "La plateforme peut fournir des remboursements aux utilisateurs ayant acheté de la monnaie virtuelle en utilisant de l'argent réel uniquement si ils n'ont pas utilisé cette monnaie virtuelle.",
+        "La plateforme peut rembourser tout objet acheté en utilisant la monnaie virtuelle de la plateforme sous 48 heures. Passées les 48 heures, il est considéré que l'utilisateur a fait usage de l'objet acheté et, de ce fait, aucun remboursement n'est possible.",
+        "La plateforme peut changer le coût de la monnaie virtuelle n'importe quand, et sans avertir les utilisateurs. La plateforme peut aussi créer des réductions sans avertir les utilisateurs.",
+        "La plateforme peut modifier le prix d'un abonnement à condition que les utilisateurs actuellement abonnés soient informés d'un tel changement avant son application.",
+        "La plateforme ne fournit aucune garantie quelconque sur le fait que les fonctionnalités fournies par un abonnement soient disponibles, restent disponibles, ou fonctionnent correctement.",
+        "Le programme de fonctionnalités expérimentales de la plateforme, accessible au travers d'un abonnement payant, contient du code en développement. Ce code peut exposer la sécurité et les données d'un utilisateur et peut se comporter de façon inattendue."
+      ],
+      [
+        "Malgré que les développeurs mettre autant d'effort que possible pour proposer une plateforme sans problèmes, les difficultés techniques peuvent se produire à n'importe quel moment et pourraient ne pas être résolues.",
+        "Les utilisateurs rencontrant des problèmes techniques sont invités à utiliser le service de centre d'aide de la plateforme. Aucune aide ne sera fournie en dehors de ce service de centre d'aide.",
+        "Le personnel administratif de la plateforme peut refuser d'aider un utilisateur avec ses problèmes si il a précédemment porté préjudice au personnel administratif.",
+        "Les développeurs ne fournissent aucune garantie quelconque sur le fait que la plateforme fonctionne comme attendu, fonctionne à un instant donné ou fonctionne tout court.",
+        "Bien que cela ne devrait pas se produire, les développeurs ne fournissent aucune garantie quant au fait que l'utilisation de la plateforme ne causera aucun dommage à l'appareil de l'utilisateur.",
+        "La plateforme peut terminer son service à n'importe quel moment, sans avertir les utilisateurs, sans fournir d'option pour télécharger ses données utilisateur, et sans fournir de remboursement (à moins qu'un litige soit actuellement en traitement).",
+        "Les développeurs ne fournissent aucune garantie sur le fait que les fonctionnalités de la plateformes restent identiques sur la durée. Des fonctionnalités peuvent être ajoutées, modifiées ou retirées à tout moment.",
+        "Dans l'éventualité d'un dommage technique, les développeurs tenteront d'assurer la sécurité des données utilisateur. Cependant, il n'y a aucune garantie sur le fait que cela soit toujours le cas."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Tarifs du support technique",
+    "delta": {
+      "title": "Note :",
+      "message": "Le support technique pour Delta est toujours gratuit indépendamment de votre abonnement actuel. Sélectionnez simplement les options sur %1la page de support%2 pour obtenir de l'aide avec Delta d'un·e administrateur·ice."
+    },
+    "ultra": "Vous êtes un·e abonné·e Delta Ultra, ce qui signifie que vous n'avez pas à payer de support technique tant que toutes les demandes de support du mois courant ne dépassent pas le coût de votre abonnement (%1€).",
+    "base": "Offres de base",
+    "descriptions": {
+      "base": "Il s'agit du prix que vous devez payer pour obtenir du support technique. Il dépend de la façon dont votre problème est traité et du temps que le/la technicien·ne passe sur votre problème. Le prix à la minute n'inclut pas le temps durant lequel le/la technicien·ne ne travaille pas sur votre problème.",
+      "additional": "Ces éléments supplémentaires, qui peuvent s'ajouter à votre demande de support, sont des éléments qui demandent une intervention particulière d'un·e technicien·ne et, de ce fait, ne sont pas inclus dans les offres de base. Le prix peut varier selon la complexité du problème."
+    },
+    "offers": [
+      {
+        "title": "Support technique matériel sur site",
+        "description": "Pour vous aider avec le matériel d'un appareil, tel que le remplacer ou le réparer.",
+        "pricing": "5 min gratuites, puis 0.15€/min"
+      },
+      {
+        "title": "Support technique logiciel sur site",
+        "description": "Pour vous aider physiquement avec votre problème, utile lorsqu'un appareil ne peut pas être contrôlé à distance.",
+        "pricing": "10 min gratuites, puis 0.10€/min"
+      },
+      {
+        "title": "Support technique hors-site avec contrôle à distance",
+        "description": "Pour vous aider en contrôlant à distance votre appareil, lorsqu'un problème peut facilement être résolu de cette façon.",
+        "pricing": "10 min gratuites, puis 0.05€/min"
+      },
+      {
+        "title": "Support technique hors-site par téléphone",
+        "description": "Pour vous aider en vous donnant des instructions par téléphone, lorsque votre problème est très facile à résoudre.",
+        "pricing": "10 min gratuites, puis 0.02€/min"
+      },
+      {
+        "title": "Vérification aux standards industriels",
+        "description": "Vérification de votre appareil avec des test longs reconnus, utile avant de vendre votre appareil.",
+        "pricing": "0.25€/vérif."
+      },
+      {
+        "title": "Vérification de routine basique",
+        "description": "Vérification de votre appareil avec des tests de routine courts, utile pour s'assurer du bon fonctionnement de l'appareil.",
+        "pricing": "0.10€/vérif."
+      },
+      {
+        "title": "Nettoyage profond du matériel",
+        "description": "Nettoyage de l'intérieur de votre appareil pour retirer la poussière et les autres impuretés qui peuvent affecter les performances.",
+        "pricing": "0.20€/nettoyage"
+      },
+      {
+        "title": "Réinstallation du système d'exploitation",
+        "description": "Réinstaller complètement un système d'exploitation sur votre appareil, dans la liste des systèmes supportés.",
+        "pricing": "0.30€/réinstall."
+      },
+      {
+        "title": "Mise à jour du système d'exploitation",
+        "description": "Mettre à jour le système d'exploitation de votre appareil vers une nouvelle version, dans la liste des systèmes supportés, uniquement si supporté par votre appareil.",
+        "pricing": "0.25€/MàJ"
+      },
+      {
+        "title": "Retrait de programme malveillant",
+        "description": "Retirer les programmes malveillants (« virus ») est souvent difficile, alors un technicien pour les retirer et s'assurer qu'ils ne peuvent pas revenir.",
+        "pricing": "0.15€/programme"
+      },
+      {
+        "title": "Support technique pour matériel ancien",
+        "description": "Le matériel ancien (plus de 15 ans) peut-être difficile à traité, et donc coûte plus. Ceci est aussi pour encourager les utilisateurs à utiliser du matériel plus récent.",
+        "pricing": "0.50€"
+      },
+      {
+        "title": "Pénalité de matériel volontairement défectueux",
+        "description": "Si vous demandez aux technicien·ne·s de réparer du matériel que vous avez cassé volontairement, vous serez facturés un montant supplémentaire pour le temps perdu.",
+        "pricing": "1.00€"
+      }
+    ],
+    "additional": "Offres supplémentaires"
+  },
+  "pass": {
+    "title": "Pass Événements",
+    "title2": "Scanner un Pass Événements",
+    "description": "Si vous participez à un événement utilisant Delta, ce QR code pourrait vous être demandé. Il permet au personnel de l'événement de savoir qui vous êtes et de quel abonnement Delta vous disposez, afin qu'il puisse vous fournir des offres supplémentaires. Cela ne donne pas accès à votre compte Delta au personnel de l'événement.",
+    "mobile": "Accéder à mon Pass Événements",
+    "scan": "Je veux scanner le Pass Événements des autres à la place.",
+    "show": "Je veux afficher mon propre Pass Événements à la place.",
+    "result": "Pass Événements scanné",
+    "items": [
+      "Ident. :",
+      "Nom :",
+      "Âge :",
+      "Abonn. :",
+      "Privil. :",
+      "Enreg. :",
+      "Solde :",
+      "Email :",
+      "Tél. :",
+      "Kiosque :"
+    ],
+    "loading": "Récupération des informations, veuillez patienter...",
+    "yes": "Oui",
+    "no": "Non",
+    "organizer": "Organisateur·ice Pass Événements",
+    "kiosk": "Le Pass Événements n'est pas disponible depuis un kiosque Delta. Ouvrez cette page sur votre propre appareil pour accéder à votre Pass Événements."
+  },
+  "kiosk": {
+    "shutdown": "Éteindre ce kiosque",
+    "devtools": "Options de développement",
+    "disable": "Désactiver ce kiosque",
+    "reload": "Recharger la page"
+  },
+  "shortener": {
+    "copy": "Copier le lien raccourci"
+  },
+  "admin": {
+    "title": "Tableau de bord d'administration",
+    "titles": {
+      "codes": "Codes des cartes cadeau",
+      "create": "Créer un nouvel objet",
+      "objects": "Objets de la base de données",
+      "requests": "Demandes en attente",
+      "registrations": "Enregistrements de compte",
+      "support": "Codes du support",
+      "avatars": "Téléversement des photos de profil"
+    },
+    "save": "Enregistrer",
+    "json": "Les données que vous avez envoyées ne sont pas du JSON valide. Vérifiez la syntaxe et essayez de nouveau.",
+    "auth": "Mettre à jour l'adresse email d'un·e utilisateur·ice peut prendre du temps à s'appliquer au serveur d'authentification",
+    "types": {
+      "all": "Tout",
+      "articles": "Article",
+      "gallery": "Album",
+      "people": "Personne",
+      "profiles": "Profil",
+      "requests": "Demande"
+    },
+    "types2": {
+      "articles": "Articles",
+      "gallery": "Albums",
+      "people": "Personnes",
+      "profiles": "Profils",
+      "requests": "Demandes"
+    },
+    "support": {
+      "search": "Chercher",
+      "request": "Demandé %1 par %2",
+      "edit": "modifier",
+      "invalid": "Ce code de support a expiré ou n'existe pas.",
+      "profile": "Profil utilisateur·ice complet :"
+    },
+    "requests": {
+      "preview": {
+        "author": "par",
+        "target": "sur"
+      },
+      "empty": "Pas de contenu fourni",
+      "nothing": "Il n'y a aucune demande en attente pour l'instant.",
+      "mark": "Marquer comme approuvée",
+      "merge": "Approuver et fusionner",
+      "reject": "Rejeter",
+      "manual": "Des changements manuels sont nécessaires",
+      "notify": "L'auteur sera notifié de la décision prise",
+      "full": "Afficher l'objet de demande complet",
+      "view": [
+        "Identifiant :",
+        "Date de publication :",
+        "Utilisateur :",
+        "Cible :",
+        "Résumé :",
+        "Non applicable"
+      ]
+    },
+    "registrations": {
+      "nothing": "Il n'y a aucun enregistrement en attente pour l'instant.",
+      "start": "ouvrir le modèle",
+      "view": [
+        "UUID :",
+        "Identifiant :",
+        "Date d'envoi :",
+        "Nom :",
+        "Moyens de contact :",
+        "Date de naissance :",
+        "Contact du parent/responsable :",
+        "Langue :"
+      ],
+      "reject": "Entrez une raison sur pourquoi cet enregistrement a été rejeté. L'utilisateur parle %1."
+    },
+    "search": "Rechercher des objets dans la base de données Delta...",
+    "modified": {
+      "title": "Impossible de changer cette demande :",
+      "description": "Vous ne pouvez pas changer cette demande car elle a été modifiée pendant que vous la relisiez. Merci de la relire à nouveau."
+    },
+    "avatars": {
+      "none": "Cliquez ici pour sélectionner un·e utilisateur·ice",
+      "upload": "Envoyer la nouvelle photo de profil"
+    }
+  },
+  "oobe": {
+    "next": "Suivant",
+    "back": "Retour",
+    "finish": "Terminer",
+    "pages": [
+      {
+        "title": "Bienvenue sur Delta",
+        "description": "Votre famille, à nouveau réunie."
+      },
+      {
+        "title": "Vous pourrez trouver tout ça",
+        "items": [
+          "Contenu sur des personnes",
+          "Connaissances familiales",
+          "Magnifiques photos"
+        ]
+      },
+      {
+        "title": "Vous voilà",
+        "description": "Vous avez peut-être déjà votre propre page sur Delta, vous pourrez la trouver une fois à bord. Si elle n'est pas là, vous pouvez demander à ce qu'elle soit créée !",
+        "tip": "Toutes vos modifications et demandes seront relues par les administrateur·ice·s."
+      },
+      {
+        "title": "C'est chez vous",
+        "description": "Tous les utilisateurs de Delta ont accès à leur espace personnel nommé « profil ». C'est là qu'ils peuvent partager ce qu'ils veulent à la vue de tous !",
+        "tip": "Vous pouvez accéder à votre profil en cliquant sur votre icône (vous pourriez d'abord avoir besoin d'ouvrir un menu)."
+      },
+      {
+        "title": "Emportez la connaissance avec vous",
+        "description": "Téléchargez l'application Delta pour Android et profitez de Delta n'importe où avec un seul appui sur votre téléphone.",
+        "tip": "L'application Delta pour Android n'est pas encore disponible, mais nous vous indiqueront quand elle le sera."
+      },
+      {
+        "title": "Aidez-nous à maintenir Delta en vie",
+        "description": "Utiliser Delta est gratuit, mais son fonctionnement à un coût. Vous pouvez nous aider à garder Delta gratuit pour tou·te·s en vous abonnant à Delta Plus ou Delta Ultra."
+      },
+      {
+        "title": "Et voilà",
+        "description": "Vous êtes désormais prêt·e à utiliser Delta. Vous pouvez utiliser l'option d'aide intégrée si besoin. Cliquez sur Terminer pour accéder à Delta."
+      }
+    ]
+  },
+  "newgallery": {
+    "title": "Ajouter des images",
+    "intro": "Sélectionnez les fichiers que vous voulez publier dans cet album.",
+    "upload": "Publier les images",
+    "add": "Ajouter une autre",
+    "waiting": "En attente d'envoi...",
+    "uploading": "Envoi au serveur...",
+    "remove": "Supprimer l'image",
+    "error": {
+      "message": "Échec de l'envoi en raison de l'erreur suivante :",
+      "generic": "Échec de l'envoi"
+    },
+    "complete": "Envoi terminé",
+    "success": [
+      "Terminé : ",
+      "Les images que vous avez envoyées ont été soumises pour relecture par les administrateur·ice·s."
+    ],
+    "picker": {
+      "title": "Sélectionner une image",
+      "upload": "Importer depuis votre appareil",
+      "uploader": "Publié par ",
+      "unknown": "Auteur inconnu"
+    },
+    "notice": "Voulez-vous publier ces images pour être revues par les administrateur·ice·s ? Assurez-vous qu'il s'agit des bonnes images avant de les envoyer, étant donné que vous ne pouvez pas les modifier après.",
+    "summary": "En option, décrivez ces images et pourquoi elles doivent être ajoutées à cet album :"
+  },
+  "experimental": {
+    "title": "Vous utilisez une version expérimentale de Delta.",
+    "message": "Attendez-vous à rencontrer des bugs et autres problèmes importants. Dans tous les cas, vous pouvez %1contacter le support technique%2 pour les signaler."
+  },
+  "register": {
+    "title": "Enregistrement",
+    "welcome": "Bienvenue sur Delta !",
+    "intro": "Nous allons vous guider dans votre enregistrement sur Delta. Comme Delta est une application privée, vous aurez besoin d'une autorisation des administrateur·ice·s pour entrer, mais nous vous aideront à compléter cela en un rien de temps.",
+    "id": "Durant votre processus d'enregistrement, les administrateur·ice·s peuvent vous demander un document permettant de prouver votre identité.",
+    "start": "Commencer",
+    "continue": "Suivant",
+    "confirm": "Envoyer votre enregistrement",
+    "name": {
+      "title": "Pour commencer, qui êtes-vous ?",
+      "description": "Delta n'est pas anonyme, nous devons donc savoir qui vous êtes. Assurez-vous d'écrire votre nom correctement car vous ne voulez sans doute pas nous demander de le changer plus tard. Si vous êtes transgenre, n'oubliez pas d'indiquer votre nom d'usage.",
+      "last1": "Nom de famille :",
+      "last2": "Entrez votre nom de famille",
+      "first1": "Prénom :",
+      "first2": "Entrez votre prénom",
+      "use1": "Je suis une personne transgenre et je souhaite être appelé·e",
+      "use2": "Entrez votre nom",
+      "use3": "Laissez vide si vous n'êtes pas transgenre"
+    },
+    "contact": {
+      "title": "Ensuite, comment vous contacter ?",
+      "description": "Il est important pour les administrateur·ice·s de pouvoir vous contacter concernant votre utilisation de l'application. Entrer un numéro de téléphone (avec le code de pays, par exemple +33) n'est pas obligatoire mais peut vous aider à obtenir de l'aide avec Delta.",
+      "email1": "Adresse courriel :",
+      "email2": "Entrez votre adresse courriel",
+      "phone1": "Numéro de téléphone :",
+      "phone2": "Entrez votre numéro de téléphone"
+    },
+    "birthday": {
+      "title": "Quel âge avez-vous ?",
+      "description": "Certaines fonctionnalités de Delta ne sont pas accessible aux personnes en dessous d'un certain age. Assurez-vous d'entrer votre vrai âge, car mentir pourrait mener à un blocage permanent de Delta. Notez que vous devez avoir au moins 7 ans pour accéder à Delta.",
+      "day": "Jour",
+      "month": "Mois",
+      "year": "Année",
+      "underage1": "Comme vous avez moins de 13 ans, vous avez besoin de l'accord d'un parent ou responsable légal pour accéder à Delta. Entrez son adresse courriel ici :",
+      "underage2": "Entrez l'adresse courriel du parent ou responsable légal"
+    },
+    "rules": {
+      "title": "Cela est important",
+      "description": "Ci-dessous sont les règles de la communauté Delta. Assurez-vous de les avoir lues et comprises avant de continuer. Si vous avez des questions les concernant, vous pouvez les poser aux administrateur·ice·s après votre enregistrement."
+    },
+    "check": {
+      "title": "Une dernière vérification !",
+      "description": "Assurez-vous que les informations affichées ici sont correctes, vous pouvez faire défiler vers le haut si vous avez besoin de les modifier. Quand vous êtes sur·e que c'est correct, cliquez sur Suivant.",
+      "steps": [
+        "Votre nom est",
+        "Votre adresse courriel est",
+        "Votre numéro de téléphone est",
+        "Vous avez",
+        "ans",
+        "vous êtes né·e un",
+        "L'adresse courriel de votre parent ou responsable légal est"
+      ]
+    },
+    "send": {
+      "title": "Attention au départ !",
+      "description": "Vous avez terminé toutes les étapes nécessaires pour envoyer votre enregistrement à Delta. Vous pouvez vérifier encore une fois que les informations entrées sont correctes, puis les envoyer.",
+      "email": "Les administrateur·ice·s vous contacteront par courriel si ils/elles ont besoin d'informations supplémentaires et pour vous informer de la décision prise.",
+      "email2": "Les administrateur·ice·s vous contacteront à %1 si ils/elles ont besoin d'informations supplémentaires et pour vous informer de la décision prise."
+    },
+    "complete": {
+      "title": "Reste plus qu'à attendre...",
+      "description": "Vous avez correctement envoyé votre enregistrement à Delta, vous devriez avoir reçu un courriel de confirmation. Nous sommes maintenant en train de le traiter et nous vous recontacterons aussi vite que possible, soyez patient·e !",
+      "thanks": "Merci d'utiliser Delta."
+    },
+    "recaptcha": "Ce site est protégé reCAPTCHA, la %1politique de confidentialité%2 et les %3conditions d'utilisation%4 de Google s'applique.",
+    "errors": {
+      "captcha": "Nos systèmes ont détecté que vous pourriez être un robot et vous a empêché d'envoyer ce formulaire d'enregistrement. Si vous pensez qu'il s'agit d'une erreur, merci de réessayer.",
+      "invalid": "Il semblerait que des informations envoyées au serveur au sujet de votre enregistrement soient invalides ou manquantes."
+    },
+    "email": {
+      "title": "[Delta] Confirmation d'enregistrement n°%1",
+      "content": [
+        "Bonjour %1,",
+        "Merci de vous être enregistré·e sur Delta. Nous avons reçu votre enregistrement et nous vous recontacterons aussi vite que possible. En attendant, n'hésitez pas à parler de Delta aux autres membres de la famille, découvrir de nouvelles fonctionnalités et essayer d'amener de nouveaux utilisateurs sur Delta pour améliorer votre expérience.",
+        "Si vous n'avez pas demandé à vous enregistrer sur Delta, merci de répondre à ce message afin que nous supprimions votre enregistrement. Si vous avez besoin d'aide concernant votre enregistrement, vous pouvez répondre à ce message ; l'identifiant suivant peut vous être demandé : %1. Veuillez noter que la relecture de votre enregistrement peut prendre jusqu'à 30 jours.",
+        "À bientôt sur Delta !"
+      ],
+      "reason": "Vous recevez ce courriel car vous avez envoyer une demande d'enregistrement à Delta."
+    },
+    "approved": {
+      "title": "[Delta] Votre enregistrement n°%1 a été approuvé",
+      "content": [
+        "Bonjour %1,",
+        "Merci encore de vous êtes enregistré·e sur Delta. Après avoir analysé votre enregistrement, nous avons décidé que vous êtes en règle et avons terminé votre enregistrement sur Delta. Vous devriez maintenant pouvoir vous connecter à Delta comme n'importe quel autre utilisateur le ferait et apprécier tout le contenu qui vous attend.",
+        "Si vous n'avez pas demandé à vous enregistrer sur Delta, ou que vous ne voulez plus utiliser Delta, merci de répondre à ce message afin que nous supprimions votre compte. Si vous rencontrez des problèmes pour vous connecter, réessayez dans quelques heures.",
+        "À bientôt sur Delta !"
+      ]
+    },
+    "rejected": {
+      "title": "[Delta] Votre enregistrement n°%1 a été rejeté",
+      "content": [
+        "Bonjour %1,",
+        "Merci encore de vous êtes enregistré·e sur Delta. Après avoir analysé votre enregistrement, nous avons décidé que vous n'êtes pas autorisé·e à accéder à Delta et avons pris la décision de rejeter votre enregistrement. %1",
+        "Si vous n'avez pas demander à vous enregistrer sur Delta, ignorez simplement ce message. Si vous pensez qu'il s'agit d'une erreur et que vous devriez avoir accès à Delta, merci de répondre à ce message en indiquant pourquoi nous commettons une erreur.",
+        "Merci.",
+        "Nous avons décidé de ne pas fournir de raison sur pourquoi votre enregistrement a été rejeté.",
+        "Voici la raison que nous avons fournie :"
+      ]
+    }
+  },
+  "nickname": {
+    "action": "Changer de surnom",
+    "title": "Changement de surnom",
+    "title2": "Changez votre surnom",
+    "requirements": "Votre surnom doit respecter les conditions suivantes pour que vous puissiez l'utiliser sur Delta :",
+    "confirm": "Confirmer le changement",
+    "list": [
+      "Faire de 3 à 25 caractères",
+      "Pas de caractères spéciaux consécutifs",
+      "3 caractères spéciaux ou moins",
+      "Commence par une lettre",
+      "Se termine par une lettre ou un chiffre",
+      "4 chiffres ou moins",
+      "Au moins 50% de lettres",
+      "Au moins %1 (50%) lettres"
+    ],
+    "invalid": "Une ou plusieurs condition·s ne sont pas respectées, impossible de continuer avec le changement de surnom. Merci de vérifier les conditions ci-dessous.",
+    "close": "Votre surnom est trop similaire au nom ou surnom d'un autre utilisateur, ou au nom d'une page de personne. Merci d'utiliser un autre surnom.",
+    "done": [
+      "Surnom changé.",
+      "Votre nouveau surnom a été enregistré et apparaîtra partout sur Delta d'ici quelques minutes."
+    ]
+  }
+}

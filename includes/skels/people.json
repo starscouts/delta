@@ -1,0 +1,41 @@
+{
+  "first_name": "[insert here]",
+  "last_name": "[insert here]",
+  "update": null,
+  "language": "fr",
+  "update_user": null,
+  "alts": [],
+  "born": null,
+  "state": null,
+  "gender": null,
+  "home": null,
+  "relations": [],
+  "birth": {
+    "date": null,
+    "place": null
+  },
+  "death": {
+    "date": null,
+    "place": null
+  },
+  "marriage": {
+    "date": null,
+    "place": null
+  },
+  "schools": [],
+  "diplomas": [],
+  "education": null,
+  "jobs": {
+    "current": null,
+    "position": null,
+    "place": null,
+    "next": null
+  },
+  "languages": [
+    "fr"
+  ],
+  "permits": [],
+  "countries": [],
+  "contents": null,
+  "delta": null
+}

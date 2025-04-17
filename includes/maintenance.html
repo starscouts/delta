@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delta has ended</title>
+    <link rel="stylesheet" href="/bootstrap/bootstrap.min.css">
+    <link rel="shortcut icon" href="/logo.svg" type="image/svg+xml">
+</head>
+<body>
+    <script>
+        if (navigator.language.startsWith("fr")) {
+            document.title = "Delta est terminé";
+        }
+    </script>
+
+    <div class="container" id="en">
+        <div class="card" style="margin-top: 50px;">
+            <div class="card-body" style="display: grid; grid-template-columns: 64px 1fr; grid-gap: 20px;">
+                <div style="display: flex; align-items: center;">
+                    <div>
+                        <img src="/logo.svg" style="width: 64px; height: 64px;">
+                    </div>
+                </div>
+                <div style="display: flex; align-items: center;">
+                    <div>
+                        <h2>Delta has now ended</h2>
+                        <span>Thank you for using Delta and helping it improve. Unfortunately, we had to stop supporting Delta as it was seeing little to no use; contact your administrator for details.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        if (navigator.language.startsWith("fr")) {
+            document.getElementById("en").style.display = "none";
+        }
+    </script>
+
+    <div class="container" id="fr">
+        <div class="card" style="margin-top: 50px;">
+            <div class="card-body" style="display: grid; grid-template-columns: 64px 1fr; grid-gap: 20px;">
+                <div style="display: flex; align-items: center;">
+                    <div>
+                        <img src="/logo.svg" style="width: 64px; height: 64px;">
+                    </div>
+                </div>
+                <div style="display: flex; align-items: center;">
+                    <div>
+                        <h2>Delta est maintenant terminé</h2>
+                        <span>Merci d'avoir utilisé Delta et de l'avoir aidé à s'améliorer. Malheureusement, nous sommes contraints d'arrêter de supporter Delta en raison d'un manque d'utilisateurs ; contactez votre administrateur·ice pour plus d'informations.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        if (!navigator.language.startsWith("fr")) {
+            document.getElementById("fr").style.display = "none";
+        }
+
+        setTimeout(() => {
+            location.reload();
+        }, 10000);
+    </script>
+</body>
+</html>

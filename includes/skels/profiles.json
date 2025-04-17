@@ -1,0 +1,47 @@
+{
+    "language": "fr",
+    "kiosk": false,
+    "blocked": 0,
+    "last_blocked": 0,
+    "first_name": "[insert here]",
+    "last_name": "[insert here]",
+    "nick_name":  null,
+    "email": "[insert here]",
+    "update": null,
+    "date": null,
+    "plus": false,
+    "ultra": false,
+    "hunter": false,
+    "eap": false,
+    "renewal": null,
+    "last_plan_update": null,
+    "balance": 0,
+    "free_trial": false,
+    "admin": false,
+    "birth": null,
+    "phone": null,
+    "requests": {},
+    "alerts": [],
+    "last_seen": null,
+    "contents": null,
+    "devices": [],
+    "studio_settings": {
+        "theme": 14,
+        "dark": false,
+        "navigation": {
+            "top": [],
+            "bottom": [],
+            "home": []
+        },
+        "profile": {
+            "badge": true,
+            "theme": -1,
+            "detailed": false,
+            "photo": true,
+            "hide": false,
+            "phone": true,
+            "email": true,
+            "birth": true
+        }
+    }
+}

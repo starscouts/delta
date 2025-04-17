@@ -1,0 +1,1279 @@
+{
+  "login": {
+    "title": "Login",
+    "title2": "Login to Delta",
+    "notfound": "This email address is unknown to Delta. Make sure you have entered it correctly and that you have a Delta account.",
+    "intro": "Start by entering your email address. You will receive an email on that address containing a secret code that will help you log into Delta.",
+    "email": "Email address",
+    "continue": "Continue",
+    "code": "A code has been sent to %1, it is valid for 15 minutes. Do not share this code with anyone even if they claim to be a Delta administrator.",
+    "code2": "Code",
+    "invalid": "The code you have entered is either invalid, or has expired.",
+    "back": "Welcome back %1!",
+    "done": "You are now logged into Delta. If you are on a shared device, don't forget to log out once you are done.",
+    "oobe": "Welcome to Delta!",
+    "oobe2": "This is your place to share content with your family in just a few minutes. Sharing knowledge, facts, and even photos is just a breeze with Delta.",
+    "start": "Get started",
+    "email2": "Just one detail.",
+    "code3": "Confirm it's really you.",
+    "finish": "Complete",
+    "auth": {
+      "email": "Continue with your email address",
+      "hub": "Continue with an Equestria.dev account",
+      "apply": "Send an account creation application"
+    },
+    "oauth2": {
+      "notfound": "The email address from your Equestria.dev account (%1) is not registered on Delta"
+    },
+    "eqd": "Sign in with",
+    "captcha": "We are unable to verify that you are not a robot, please try again."
+  },
+  "home": {
+    "title": "Dashboard",
+    "greeting": "Hello",
+    "date": "Today is %1.",
+    "birthday": "Today is %1 birthday.",
+    "and": "and",
+    "name": "%1's",
+    "update": "was updated",
+    "family": "In your family",
+    "because": "Because you have read %1",
+    "recent": "Recently updated",
+    "editor": "Editor"
+  },
+  "time": {
+    "display": "%1 %2 %3",
+    "later": "later",
+    "ago": "ago",
+    "now": "now",
+    "sec": "second",
+    "less": "a bit of time",
+    "mn": "minute",
+    "hr": "hour",
+    "d": "day",
+    "wk": "week",
+    "mo": "month",
+    "y": "year",
+    "age": "age",
+    "today": "today",
+    "yesterday": "yesterday",
+    "update": "This page was last updated %1.",
+    "update_user": "This page was last updated %1 by %2."
+  },
+  "months": {
+    "jan": "January",
+    "feb": "February",
+    "mar": "March",
+    "apr": "April",
+    "may": "May",
+    "jun": "June",
+    "jul": "July",
+    "aug": "August",
+    "sep": "September",
+    "oct": "October",
+    "nov": "November",
+    "dec": "December"
+  },
+  "navigation": {
+    "show": "Menu",
+    "hide": "Close",
+    "people": "People",
+    "articles": "Articles",
+    "gallery": "Gallery",
+    "events": "Events",
+    "search": "Search",
+    "profile": "Profile",
+    "messages": "Alerts",
+    "upgrade": "Upgrade",
+    "beta": "Latest changes",
+    "user": {
+      "dashboard": "Dashboard",
+      "profile": "Your profile",
+      "edit": "Edit page",
+      "subscriptions": "Subscriptions",
+      "requests": "Pending requests",
+      "help": "Help",
+      "logout": "Log out"
+    }
+  },
+  "footer": {
+    "legal": "Legal notices",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "sales": "Terms of sales"
+  },
+  "people": {
+    "title": "People",
+    "empty": "This person does not have any text on their page.",
+    "state": "State",
+    "gender": "Gender",
+    "relations": "Relations",
+    "home": "Home",
+    "civil": "Marital status",
+    "birth": "Birth",
+    "death": "Death",
+    "marriage": "Marriage",
+    "studies": "Studies",
+    "schools": "Schools",
+    "diplomas": "Diplomas",
+    "level": "Education level",
+    "jobs": "Jobs",
+    "previousjobs": "Past jobs",
+    "currentjob": "Current job",
+    "position": "Position",
+    "workplace": "Work place",
+    "nextjob": "Next job",
+    "culture": "Cultural",
+    "religion": "Religion",
+    "languages": "Spoken languages",
+    "permits": "Permits",
+    "countries": "Visited countries",
+    "dead": "Deceased",
+    "notborn": "Not born",
+    "alive": "Alive",
+    "invalid": "Invalid value",
+    "female": "Female",
+    "male": "Male",
+    "other": "Other",
+    "transfemale": "Trans female",
+    "transmale": "Trans male",
+    "delta": "Delta profile",
+    "update": "Request update",
+    "notfound": "Not found",
+    "parent": "parent",
+    "sibling": "sibling",
+    "child": "child",
+    "grandchild": "grandchild",
+    "partner": "partner",
+    "greatparent": "grandparent",
+    "advanced": {
+      "alive": {
+        "female": "Alive",
+        "male": "Alive"
+      },
+      "notborn": {
+        "female": "Not born",
+        "male": "Not born"
+      },
+      "dead": {
+        "female": "Deceased",
+        "male": "Deceased"
+      },
+      "partner": {
+        "married-female": "bride",
+        "married-male": "groom",
+        "married-neutral": "married",
+        "unmarried-female": "girlfriend",
+        "unmarried-male": "boyfriend"
+      },
+      "parent": {
+        "female": "mother",
+        "male": "father"
+      },
+      "child": {
+        "female": "daughter",
+        "male": "son"
+      },
+      "grandchild": {
+        "female": "granddaughter",
+        "male": "grandson"
+      },
+      "greatparent": {
+        "female": "grandmother",
+        "male": "grandfather"
+      },
+      "sibling": {
+        "female": "sister",
+        "male": "brother"
+      }
+    },
+    "unknown": "Unknown",
+    "lhs": "Lower high school",
+    "uhs": "Upper high school",
+    "ps": "Primary school",
+    "uni": "Graduate",
+    "freestudy": "Other",
+    "edit": "Edit",
+    "create": "Request addition of a new person..."
+  },
+  "edit": {
+    "title": "Editor",
+    "cancel": "Cancel",
+    "save": "Publish change request",
+    "confirm": {
+      "title": "Publish this change request",
+      "description": "Do you want to publish your changes to be reviewed by the administrators? After you have published your request, you will be able to make more changes to the document.",
+      "summary": "Describe changes you made to this document:",
+      "followup": "You will receive an alert when your change is approved or rejected.",
+      "button": "Publish"
+    },
+    "alert": {
+      "title": "You have a pending change request for this content",
+      "message": "You have published a change request for this content %1. You can continue changing it until the administrators have reviewed it.",
+      "message2": "You have published a change request for this content %1. You need to wait for that change request to be reviewed by the administrators before you can publish another change request."
+    },
+    "preview": "Changes preview"
+  },
+  "request": {
+    "title": "Create a change request",
+    "type": "Request type:",
+    "types": {
+      "metaupdate": "Change a page's metadata",
+      "add": "Add a new page",
+      "addevent": "Create an event",
+      "profile": "Change data on my profile",
+      "addalbum": "Create a new gallery album",
+      "rename": "Rename an article or album",
+      "profileother": "Change data on another user's profile",
+      "userreport": "Report a user's behavior",
+      "userpage": "Change a person page's content",
+      "article": "Change an article's content",
+      "galleryupload": "Upload a new image to an album",
+      "gallerymeta": "Change an album's description"
+    },
+    "id": "Item ID (do not change if unsure):",
+    "description": "Describe what should be changed. Be as precise as possible and indicate why such a change is required.",
+    "submit": "Send change request"
+  },
+  "articles": {
+    "title": "Articles",
+    "empty": "This article is currently empty.",
+    "rename": "Request rename",
+    "create": "Request creation of a new article..."
+  },
+  "alerts": {
+    "title": "Alerts",
+    "unread1": "%1 unread",
+    "unread2": "%1 unread"
+  },
+  "profile": {
+    "title": "Profile",
+    "options": "Options",
+    "report": "Report user",
+    "report_male": "Report user",
+    "report_female": "Report user",
+    "request": "Request changes",
+    "since": "Delta user for",
+    "since_male": "Delta user for",
+    "since_female": "Delta user for",
+    "last": "Last seen",
+    "last_male": "Last seen",
+    "last_female": "Last seen",
+    "pending1": "pending change request",
+    "pending2": "pending change requests",
+    "pending3": "No",
+    "old": "old",
+    "empty": "This user does not have a profile description yet.",
+    "empty_female": "This user does not have a profile description yet.",
+    "empty_male": "This user does not have a profile description yet.",
+    "editor": "Your profile",
+    "save": "Publish changes",
+    "confirm": {
+      "title": "Publish these changes",
+      "description": "Do you want to publish the changes you made to this page? After you publish these, the text you have entered will be viewable by all Delta users.",
+      "followup": "Make sure the contents of this page are not inappropriate for some types of people, and respect the rules. Your account could get blocked if you do not respect this."
+    },
+    "birth": "born",
+    "birth_female": "born",
+    "birth_male": "born",
+    "never": "Never logged in"
+  },
+  "plus": {
+    "kiosk": "For security reasons, you cannot update your Delta subscription from a Delta kiosk. Open this page on your own device to update your subscription.",
+    "coins": "coins",
+    "intro": "Get exclusive perks for Delta and unique features while supporting the developers",
+    "buy": "Get it now%1 (starting %2 coins/month)",
+    "terms": "Requires a Delta coins balance. Terms and conditions apply.",
+    "change": "Change subscription",
+    "notice": "Current subscription is %1. May require a Delta coins balance.",
+    "perks": "What do we get with Delta Plus (for 2 coins a month)?",
+    "perks2": "Delta Ultra adds all of this for 5 coins a month:",
+    "list": [
+      {
+        "title": "Free technical support",
+        "description": "Service, software%1 and storage fees are all covered with Delta Plus, meaning you can get free support at any time. However, hardware fees are not covered%2.",
+        "pretty": "Free technical support for other services"
+      },
+      {
+        "title": "Faster reviews",
+        "description": "Your change requests will be reviewed faster than change requests from non-Delta Plus users%1, meaning you can edit content faster than ever.",
+        "pretty": "Priority in reviewing change requests"
+      },
+      {
+        "title": "Early news",
+        "description": "When new features are coming to Delta, you are made aware of them before release%1. You may be able to test and use them before general release%2.",
+        "pretty": "Early news and access to upcoming features"
+      },
+      {
+        "title": "Exclusive badge",
+        "description": "To show your support, you will get an exclusive Delta Plus badge on your profile. All users of Delta can see you support the platform.",
+        "pretty": "Exclusive badge on your user profile"
+      },
+      {
+        "title": "Printing support",
+        "description": "With a Delta Plus subscription, you can print all pages%1 from your browser's print option, so that you can enjoy a physical copy.",
+        "pretty": "Support for printing pages with the browser"
+      },
+      {
+        "title": "Profile nickname",
+        "description": "With a profile nickname, you get another name Delta users can use to refer to you%1. This nickname will replace your real name everywhere in Delta%2.",
+        "pretty": "Custom nickname for your profile and Delta"
+      },
+      null,
+      {
+        "title": "Mobile notifications",
+        "description": "Tired of getting emails? Delta Ultra allows you to get notifications from Delta directly on your phone, without using email%1.",
+        "pretty": "Mobile push notifications instead of email"
+      },
+      {
+        "title": "Locked safe",
+        "description": "Coming soon%1. Securely store encrypted%2 sensitive files directly into Delta to keep them safe and reachable at all times.",
+        "pretty": "Zero access encrypted storage safe"
+      }
+    ],
+    "how": "How to get Delta coins?",
+    "action": "Continue",
+    "online": {
+      "title": "Use real money",
+      "description": "You can buy Delta coins using real money with your credit card, a check or cash%1."
+    },
+    "code": {
+      "title": "Use a code",
+      "description": "If you have a Delta coins code at an event or from a Delta administrator, you can use it on your account%1."
+    },
+    "trial": {
+      "title": "Get 5 coins free",
+      "description": "First time using Delta Plus? You can get 5 coins for free (2 months of Delta Plus subscription%1)."
+    },
+    "notes": [
+      "Delta Plus is only available for users who are 16 years old or more and without an active account block.",
+      "Limits apply, Delta is currently not able to review requests at all times due to additional work.",
+      "Features might change between when users are made aware of them and when they release, or be dropped entirely.",
+      "Features are not guaranteed to be stable or entirely usable until they publicly release. Users are expected to report issues to the developers.",
+      "Only supports people and articles pages, does not work with albums, search results, or profiles.",
+      "Not all interface elements cannot be customised. Customisations can be disabled at any time by the administrators.",
+      "Notifications will stop working and emails will send again as soon as the Delta Ultra subscription expires.",
+      "Only covers one-time paid software that costs less than 20€, that is absolutely required and that has not been purchased yet.",
+      "Additional hardware will need to be paid for by the user, either to Delta or directly on a merchant service.",
+      "People who need to change their display name (transgender and/or married people) can ask to change their real name instead.",
+      "A user's real name is still displayed on their profile page next to their nickname for reference purposes.",
+      "Delta can suspend your account if you ask for a refund and you do not have enough coins in your balance.",
+      "Each code can be used only once and for the amount of coins it was made for. No credit card is required.",
+      "The 5 coins free trial is only available to users who have not purchased Delta coins or used a code before."
+    ],
+    "subscribe": {
+      "title": "Change Delta subscription",
+      "title2": "Select your subscription",
+      "base": "Access to all of Delta for free",
+      "down": "Downgrade",
+      "up": "Upgrade",
+      "free": "Free",
+      "help": "Free support and help for Delta services",
+      "current": "Current subscription",
+      "coin": "coins per month",
+      "monthly": "€%1 per month"
+    },
+    "confirm": {
+      "title": "Confirm subscription update",
+      "up": "Upgrading from %1 to %2",
+      "down": "Downgrading from %1 to %2",
+      "cost": "Update cost: %1 coins",
+      "balance": "Balance change: %1 coins → %2 coins",
+      "missing": "Your current balance (%1 coins) is insufficient to complete this update. You need at least %2 coins to change your subscription plan to %3.",
+      "renewal": "You will be charged %1 coins every month (next renewal on %3)",
+      "norenewal": "You will never be charged coins",
+      "proceed": "Proceed with %1",
+      "up2": "upgrade",
+      "down2": "downgrade",
+      "email": "You will receive a confirmation email after clicking this button",
+      "refund": [
+        "Warning:",
+        "You will not get refunded any of the coins used to pay for the current month of subscription and your subscription will end immediately. It is recommended that you end your subscription near when the current month would typically end."
+      ]
+    },
+    "trial1": {
+      "title": "Free coins trial",
+      "unavailable": "You are not eligible for a free coins trial. Only accounts that have not used Delta Plus, Delta Ultra, a Delta coins code, the free coins trial and have not bought coins are eligible.",
+      "intro": "Because this is your first time using Delta Plus/Ultra and Delta coins, you can get 5 coins free. These 5 coins are enough to pay for a month of Delta Plus subscription (and a month of Delta Ultra subscription if you add 3 coins).",
+      "message": "By redeeming your 5 coins now, you will not be able to redeem them later (one-time trial) and they will immediately be added to your balance. Your subscription will not be updated (you will not automatically get Delta Plus).",
+      "success": "5 coins have been added to your balance, you can now use them to buy a Delta Plus subscription or add 3 more coins and get a Delta Ultra subscription. Feel free to contact the administrators if you need help."
+    },
+    "usecode": {
+      "title": "Use a Delta coins code",
+      "intro": "Enter your Delta coins code here:",
+      "placeholder": "XXXXX-XXXXX-XXXXX",
+      "continue": "Continue",
+      "used": "The code you have entered has either already been used or does not exist.",
+      "use": "Use code",
+      "usable": "This code contains %1 coins. After using this code, it will not be usable again and you will immediately get %1 coins on your account.",
+      "success": "You have successfully used this code and received %1 coins on your account.",
+      "me": "You have used this code %1."
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "empty": "This album does not contain any image.",
+    "upload": "Upload image",
+    "uploader": "Uploaded by",
+    "create": "Request creation of a new album..."
+  },
+  "upload": {
+    "title": "Upload image to album",
+    "select": "Select the file you want to upload to this album.",
+    "confirm": "Upload this image",
+    "notice": "Do you want to publish this image to be reviewed by the administrators? Make sure this is the right image before you send it, as you cannot change it afterwards.",
+    "summary": "Optionally describe this image and why it should be added to the album:",
+    "followup": "You will receive an alert when your upload is approved or rejected.",
+    "dialog": "Publish this image",
+    "error": "Error: ",
+    "errors": {
+      "unreceived": "The server did not receive the image",
+      "internal": "An internal error occurred while processing this file",
+      "type": "The received image type is not supported by the server"
+    },
+    "success": [
+      "Success: ",
+      "This image has been successfully submitted for review to the administrators.",
+      "Upload another."
+    ]
+  },
+  "notifications": {
+    "reject": {
+      "title": "Your request has been rejected",
+      "message": "Your request to \"%1\" published on %2 at %3 UTC has been rejected by the administrators. Contact them for further details."
+    },
+    "approve": {
+      "title": "Your request has been approved",
+      "message": "Your request to \"%1\" published on %2 at %3 UTC has been approved by the administrators. Content has already been updated."
+    },
+    "renewal1": {
+      "title": "Your Delta Plus subscription has been renewed",
+      "message": "%1 coins have been taken from your balance to renew your Delta Plus subscription, the next renewal is due on %2."
+    },
+    "renewal2": {
+      "title": "Your Delta Ultra subscription has been renewed",
+      "message": "%1 coins have been taken from your balance to renew your Delta Ultra subscription, the next renewal is due on %2."
+    },
+    "expired1": {
+      "title": "Your Delta Plus subscription has expired",
+      "message": "Your Delta Plus subscription has ended because you do not have enough coins to pay for another month. All perks have been disabled."
+    },
+    "expired2": {
+      "title": "Your Delta Ultra subscription has expired",
+      "message": "Your Delta Ultra subscription has ended because you do not have enough coins to pay for another month. All perks have been disabled."
+    },
+    "birthday": {
+      "title": "Happy birthday!",
+      "message": "Today is your birthday! To celebrate this, we have added 4 coins to your account."
+    },
+    "block0": {
+      "title": "All blocks have been removed from your account",
+      "message": "Blocks that were previously active on your account have been removed by the administrators. You can now use all of Delta."
+    },
+    "block1": {
+      "title": "You are blocked from modifying your personal page",
+      "message": "Due to abuse, the administrators have enacted a block on your account that prevents you from modifying your personal page. Contact them for details."
+    },
+    "block2": {
+      "title": "You are blocked from making change requests",
+      "message": "Due to abuse, the administrators have enacted a block on your account that prevents you from making any change request on Delta. Contact them for details."
+    },
+    "block3": {
+      "title": "Your account has been blocked permanently",
+      "message": "The administrators have blocked your account from using or logging into Delta until further notice. Open Delta now to check for details."
+    }
+  },
+  "blocked": {
+    "own": "You are currently unable to edit your personal page because an administrator placed a restriction on your account that makes you unable to edit your own page. This is usually because of abuse or violating a rule.",
+    "edit": "You are currently unable to edit this content because an administrator placed a restriction on your account that makes you unable to edit your own page or any other content on Delta. This is usually because of abuse or violating a rule.",
+    "request": "You are currently unable to create this request because an administrator placed a restriction on your account that makes you unable to create change requests on Delta. This is usually because of abuse or violating a rule.",
+    "error": "If you believe this is an error, please contact an administrator.",
+    "login": {
+      "title": "Blocked account",
+      "title2": "Your account has been blocked",
+      "message": [
+        "Hey %1,",
+        "We are unable to let you log into Delta because your account has been permanently blocked by the administrators. This means you are now unable to access content on Delta at all.",
+        "This generally happens when you do something really bad, such as:",
+        "sharing content on Delta with non-Delta users without prior consent;",
+        "sharing your personal account with multiple people;",
+        "using Delta for illegal purposes;",
+        "giving inaccurate or false personal information to the administrators;",
+        "disrespecting the administrators;",
+        "and any other reason that is deemed important.",
+        "Your account information is most likely still available on Delta and can be recovered in the event that this is not right (since mistakes can happen). If this block is actually legitimate, all account data will be deleted from Delta's servers in a few weeks.",
+        "We understand how frustrating this can be, but we want to remind you that, when rules are set, you need to respect them. Delta has rules that you have to respect to have the right to use the service.",
+        "Note, however, that using a friend's/sibling's/parent's or anyone else's account to access Delta for your own purposes is not permitted and could get their account blocked as well, and that, without warning and without any possible unblock.",
+        "If you think this isn't right, please contact the administrators (and don't forget to stay nice); they may ask you for information that was on your account."
+      ],
+      "id": "User profile ID:",
+      "date": "Account created"
+    }
+  },
+  "email": {
+    "reasons": {
+      "login": "You are receiving this email because you have tried to log into Delta.",
+      "login2": "You are receiving this email because you have just logged into Delta.",
+      "alert": "You are receiving this email because you have new alerts. Want these notifications on your phone? Get Delta Ultra now.",
+      "update": "You are receiving this email because your Delta subscription changed."
+    },
+    "code": {
+      "title": "[Delta] Your login authentication code",
+      "message": [
+        "Hello,",
+        "Someone (probably you) is trying to log into Delta. To continue further, you will need the following authentication code:",
+        "Do not give out this code to anyone, even if they claim to be a Delta administrator.",
+        "Delta administrators will never ask for authentication codes. If you have not initiated this request, you can safely ignore this message. It does not mean someone has gained access to your Delta account."
+      ]
+    },
+    "alerts": {
+      "title": [
+        "[Delta] You have %1 new alerts on your account",
+        "[Delta] You have a new alert on your account"
+      ],
+      "message": [
+        "Hello,",
+        "Things have happened on Delta since your last visit. Here is what happened:",
+        "You will find these messages on Delta's \"Alerts\" page, where you can dismiss them. You will only get this email once."
+      ]
+    },
+    "login": {
+      "title": "[Delta] New login on your Delta account",
+      "message": [
+        "Hello,",
+        "Someone (probably you) just logged into Delta. To make sure it was you, here are details about the login, including the location it was made from:",
+        "If you have not initiated a login to Delta, something seriously wrong might have happened and you should contact the administrators immediately so they can investigate the issue with you.",
+        "If it was you, you can safely ignore this message."
+      ]
+    },
+    "plan": {
+      "title": "[Delta] Your subscription have changed",
+      "message": [
+        "Hello,",
+        "We are letting you know that, according to your request, your Delta subscription plan has changed. You are now using %1 for %2 coins a month.",
+        "Additional details about your plan, such as when the next renewal is due and your current balance, are available on Delta.",
+        "If you have not originated this request, do not change your subscription again and contact the administrators within 48 hours. They will help you get a refund of the update fee."
+      ]
+    }
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search people, articles or users on Delta...",
+    "submit": "Search",
+    "none": "No results found."
+  },
+  "logout": {
+    "title": "Log out from Delta",
+    "confirm": "If you log out from Delta, you will have to log in with your email address again. You will continue to receive alerts through email or notifications on your phone.",
+    "yes": "Log me out",
+    "no": "Cancel"
+  },
+  "requests": {
+    "title": "Pending requests",
+    "on": "on",
+    "date": "published",
+    "cancel": "Cancel",
+    "confirm": {
+      "title": "Cancel this request",
+      "message": [
+        "Are you sure you want to cancel the following request:",
+        "The administrators can see your change request even after you cancelled it, but they can't act upon it."
+      ],
+      "yes": "Delete",
+      "no": "Cancel"
+    },
+    "none": "You don't have any pending requests."
+  },
+  "content": {
+    "title": "Content"
+  },
+  "mobile": {
+    "title": "Profile and settings",
+    "profile": "Your profile",
+    "alerts": "Alerts and messages",
+    "subscriptions": "Subscriptions and coins",
+    "pending": "Pending change requests",
+    "support": "Delta help and support",
+    "beta": "Latest Delta Beta changes",
+    "admin": "Administrative options",
+    "end": [
+      "The Delta Android app is going away.",
+      "We are discontinuing the Delta mobile application soon. Please use Delta in your web browser instead from now on."
+    ],
+    "bye": {
+      "title": "This app is not functional anymore",
+      "text": [
+        "Thank you for your continued support of the Delta for Android platform.",
+        "Unfortunately, the Delta for Android application has now been discontinued and will not be working anymore. You are strongly invited to use Delta in another way instead.",
+        "To use Delta in your default web browser, enter \"delta.equestria.dev\" as the address and log in again from there. Note that you will not be getting mobile notifications from your browser.",
+        "You may now close this app and uninstall it."
+      ]
+    }
+  },
+  "support": {
+    "title": "Help center",
+    "greeting": "Got an issue? We're here to help",
+    "intro": "What are you having issues with?",
+    "issues": [
+      "Login and email delivery",
+      "Text editor",
+      "Viewing pages",
+      "Gallery",
+      "Search and intelligent features",
+      "Viewing and editing profiles",
+      "Reading and managing alerts",
+      "Delta Plus, Delta Ultra and Delta coins",
+      "Making change requests",
+      "Mobile (Android) application",
+      "Contact the administrators/Something else"
+    ],
+    "titles": [
+      "Issues related to login and email delivery",
+      "Issues using the page text editor",
+      "Issues viewing pages on Delta",
+      "Issues using the gallery",
+      "Issues using search and other intelligent features",
+      "Issues editing your profile and viewing profiles",
+      "Issues accessing, reading and managing alerts",
+      "Issues using a subscription or coins",
+      "Issues making or dealing with change requests",
+      "Issues using the Delta Android application",
+      "Contacting the administrators or dealing with other issues"
+    ],
+    "back": "Go back and choose another type of issue",
+    "types": [
+      [
+        "We are unable to log in to Delta",
+        "We are not receiving any emails from Delta",
+        "We want to change our email address",
+        "We want to solve all emails from Delta going to our spam folder",
+        "We are not receiving emails for new alerts",
+        "Something else"
+      ],
+      [
+        "What we saw on the text editor isn't what we see once we publish our changes",
+        "We are unable to upload images in our document",
+        "We are unable to embed media content in our document",
+        "Our document is not showing properly on all devices",
+        "We want to create a link to other pages on Delta",
+        "Something else"
+      ],
+      [
+        "Items on a page are not lining up properly",
+        "Content on the page is too big/small/tiny/large",
+        "A page is not showing up properly",
+        "A page is showing up as empty when it is not",
+        "Something else"
+      ],
+      [
+        "Gallery images are not loading",
+        "Gallery images are not having the right upload date",
+        "We are unable to upload images to the gallery",
+        "Gallery images are not looking good",
+        "We are unable to click on gallery images",
+        "Something else"
+      ],
+      [
+        "Search is not giving us accurate results",
+        "Search is not working",
+        "Search is giving us inappropriate results",
+        "AI features are not working correctly",
+        "Automated actions are not acting properly",
+        "Something else"
+      ],
+      [
+        "We can't view someone else's profile",
+        "We can't view our own profile",
+        "We can't edit our personal page",
+        "We don't see information on our profile",
+        "We don't see information on someone else's profile",
+        "Something else"
+      ],
+      [
+        "We are unable to mark an alert as (un)read",
+        "We are not receiving any alerts",
+        "We are not receiving emails for new alerts",
+        "We are not receiving notifications for new alerts (for Delta Ultra subscribers)",
+        "We do not see any alerts",
+        "Something else"
+      ],
+      [
+        "Our Delta Coins balance is not correct",
+        "Our Delta subscription changed without our consent",
+        "We are unable to add coins to our account",
+        "We are unable to buy Delta Plus or Delta Ultra",
+        "We are unable to downgrade our subscription",
+        "The code we were given is not working",
+        "Something else"
+      ],
+      [
+        "All our change requests are rejected",
+        "We want to know why our change requests are rejected",
+        "We are unable to make change requests",
+        "We never hear back about our change requests",
+        "Something else"
+      ],
+      [
+        "We are unable to install/update/uninstall the application",
+        "We are not receiving notifications for new alerts (for Delta Ultra subscribers)",
+        "We are not staying logged in to the application",
+        "Delta links are not opening in the application",
+        "The application does not look good",
+        "We installed the application but it's not working",
+        "Something else"
+      ],
+      [
+        "We want to change the language of our account",
+        "We want to get a copy of our personal data",
+        "We want to automate operations on Delta programmatically",
+        "We are having trouble using an upcoming feature (for Delta Plus subscribers)",
+        "Delta told us to contact the administrators",
+        "Something else"
+      ]
+    ],
+    "go": {
+      "message": "Select how you want to get help with Delta:",
+      "ways": [
+        "SMS chat/Signal (recommended)",
+        "Email"
+      ],
+      "warning": "Never give out authentication codes or change a setting on your account, even when asked by an administrator. Instead, you may need to give out this code: %1.",
+      "phone": [
+        "You can contact the administrators by sending SMS messages and/or Signal messages (using the Signal application on your phone) to %1. Make sure you mention you are a Delta user.",
+        "Note that you must send a message and not call the above number, as the administrators will not reply to calls from non-saved people. Any call attempt will not be answered."
+      ],
+      "email": [
+        "You can contact the administrators via email at %1. Make sure you mention you are a Delta user, and add details about the exact problem you are facing so that it can be solved quickly.",
+        "Your email request can take up to a week before you get an initial reply. Only consider email support if you are unable to use SMS/Signal support. Any request that does not provide sufficient information will be ignored."
+      ]
+    },
+    "rules": "Delta community rules"
+  },
+  "beta": {
+    "title": "Latest changes",
+    "title2": "Delta Beta news",
+    "message": "Click on a news entry to get more information about it.",
+    "affected": "Affects",
+    "users": "%1 users",
+    "public": "logged-out",
+    "published": "Published",
+    "version": "Delta version",
+    "php": "PHP language version",
+    "build": "Built for",
+    "api": "Running on",
+    "engine": "Engine version",
+    "latency": "%1 ms processing time",
+    "os": "Operating system",
+    "process": "Process on the server",
+    "root": "Installed to",
+    "network": "Network routing",
+    "new": "New"
+  },
+  "badges": {
+    "admin": "Delta staff",
+    "eap": "Early supporter",
+    "hunter": "Delta bug hunters"
+  },
+  "download": {
+    "action": "Download data",
+    "title": "Download personal data",
+    "title2": "Download a copy of your personal data",
+    "intro": [
+      "Following the European General Data Protection Regulation, Delta gives you the option to download a copy of all your personal data. This includes your profile, the edits you made, your browsing history, and more.",
+      "Note, however, that we cannot guarantee the data you receive will be easy to read for non-tech savvy people. If you need help reading your data from what you downloaded, you can contact the administrators. Once your data is exported, you cannot upload it back to Delta. If you need to make changes to your personal data, do it yourself or contact the administrators so they can do it for you.",
+      "Gathering all the bits of data for you might take a while, so be patient."
+    ],
+    "start": "Start downloading",
+    "files": {
+      "user": "User info",
+      "requests": "Change requests",
+      "gallery": "Gallery uploads",
+      "pending": "Pending",
+      "closed": "Closed",
+      "public": "Public",
+      "deleted": "Deleted",
+      "history": "History",
+      "profile": "Profile info",
+      "avatar": "Profile picture",
+      "uploads": "Images uploaded to pages"
+    },
+    "name": "Delta data export for %1",
+    "kiosk": "Downloading a copy of your personal data is not possible when using a Delta kiosk. Open this page on your own device to continue."
+  },
+  "editor": {
+    "items": "More formatting options",
+    "add": "Insert content"
+  },
+  "rules": {
+    "intro": "Delta users are part of a community. Therefore, as with any community, they have to abide to a specific set of rules to ensure their (and the others') experience stays enjoyable. Failure to abide to these rules will lead to punishments.",
+    "recaptcha": "Delta is using automated software to ensure the following rules are respected. Some of this software is provided by Google and their reCAPTCHA technology in accordance with their %1terms of service%2 and %3privacy policy%4. None of your Delta user data is sent to Google.",
+    "sections": [
+      "Access to Delta",
+      "Graphical and textual content",
+      "Administrative operations and moderation",
+      "Safety and user privacy",
+      "Paid options and subscriptions",
+      "Warranty and technical issues"
+    ],
+    "lines": [
+      [
+        "Users who are younger than seven (7) years old are not allowed to access the platform at all. Users who are younger than thirteen (13) years old are allowed to access the platform only with consent from their guardian or parent.",
+        "Users who are younger than sixteen (16) years old may not be allowed to access certain features of the platform.",
+        "Only approved family members or relatives are allowed to access the platform.",
+        "Sharing a single platform account with another physical person is not permitted.",
+        "Users who have committed a crime or an offense are not allowed to use the platform.",
+        "A valid way of proving one's identity, including their birth date, is required to access the platform.",
+        "At least a valid email address is required to use the platform. Additionally, a valid phone number is recommended but not required.",
+        "For certain operations, the administrative personnel of the platform may require a user to provide another way of proving their identity.",
+        "The administrative personnel can reject a user's access to the platform if they are unable to prove their identity."
+      ],
+      [
+        "Content must be in the language specified on the platform. Use of another language requires an accurate translation to be provided.",
+        "Use of vulgar or explicit text is not permitted.",
+        "All images present across the entire platform must be acceptable for all people of all ages. This means violent, sexually explicit, or vulgar content is not allowed.",
+        "Consent from people is required to publish an image showcasing them. Failure to comply may lead to legal procedures.",
+        "Content published to the platform must be of a respectable quality. This means content that provides no actual useful information is not permitted.",
+        "Content on the platform must be entirely inclusive. Any content that is hateful against people with a specific sexual orientation, gender identity, identity as a whole, physical or mental disorder, or being part of a minority, is not permitted.",
+        "Content that is not owned by the person writing it must mention the original source and author. If accessing the original content requires payment, this content is not permitted on the platform.",
+        "All content published to the platform can be read, modified, deleted and reused by all users of the platform, regardless of the state of their account.",
+        "Content on the platform is strictly confidential and must not leave the platform without the consent of any concerned people."
+      ],
+      [
+        "Contacting the platform's administrative personnel when that is not required is not permitted.",
+        "Users must respect the administrative personnel or any other platform personnel and must not be violent against them. A violent user will not receive any support and may get their account suspended.",
+        "Moderation operations can be taken automatically, using an automated program. These actions are the same as if they were performed by the administrative personnel.",
+        "Users must not attempt to moderate the platform by themselves. If there is a case that needs administrative intervention, concerned users must get in touch with the administrative personnel.",
+        "Users are required to give the administrative personnel real, up-to-date and accurate personal information to be able to access and use the platform.",
+        "The administrative personnel is allowed to restrict a person's ability to use the platform at any point, without warning, and without providing a specific reason.",
+        "The administrative personnel is allowed to remove content from the platform without providing a specific reason."
+      ],
+      [
+        "Publishing content containing malicious software or code is not permitted, regardless of whether it was intentional or not.",
+        "A user must not publish another user's personal information without their prior written consent. Failure to abide to this may lead to legal procedures.",
+        "The platform collects additional user behavior data to improve user experience and performance. A user can see the data collected about them by downloading a copy.",
+        "The option to download a copy of user data only downloads the data associated with the currently logged-in user, and may not contain data that is stored anonymously.",
+        "For transparency reasons, some user information is publicly accessible by default. This helps reduce fraud and abuse.",
+        "Since the platform is accessible to people who are at least seven (7) years old, it is important that all content on the platform remains safe for children.",
+        "The platform will not communicate a user's immediate state (whether they are active or not) and will allow them to stop receiving mobile notifications at any time.",
+        "The platform will only communicate with a user through their mobile phone or email address.",
+        "The platform's administrative personnel reserves the right to use a user's personal information to get in touch with them in the event that such an action is needed.",
+        "All personal data on the platform will never be exchanged, given, sold or borrowed to third-parties, and will not leave the platform's official servers."
+      ],
+      [
+        "Users who are less than sixteen (16) years old are not allowed to enroll into the platform's paid subscriptions. They, however, are allowed to possess the platform's virtual currency (\"coins\").",
+        "The platform can provide refunds to users who paid virtual currency using real money only if they have not used said currency.",
+        "The platform can refund any item paid using the platform's virtual currency within 48 hours. Past 48 hours, it is considered that the user has made use of the item they bought and, therefore, no refund is possible.",
+        "The platform can change the price of the virtual currency at any point in time, and without warning users. The platform can also create discounts without warning users.",
+        "The platform can change the price of a subscription as long as the currently enrolled users are made aware of such a change before it takes effect.",
+        "The platform makes no warranty whatsoever that the features provided by a subscription will be available, remain available, or be functioning as intended.",
+        "The platform's experimental features programme, which is accessible through a paid subscription, contains work-in-progress code. This code may expose a user's security or user data and may misbehave."
+      ],
+      [
+        "Although the developers put as much effort as possible into making the platform free of issues, technical difficulties may happen at any point in time and may not be resolved.",
+        "Users encountering technical issues are invited to use the platform's help center service. No support will be provided outside of this help center service.",
+        "The platform's administrative personnel can refuse to help a user with their issues if they have previously harmed the administrative personnel.",
+        "The developers provide no warranty whatsoever that the platform will function as intended, function at specific points in time or function at all.",
+        "While this generally should not happen, the developers make no guarantee using the platform will not damage a user's device.",
+        "The platform may terminate service at any point in time, without warning users, without giving the option to download user data, and without providing refunds (unless a dispute is already ongoing).",
+        "The developers make no guarantee that the platform's current feature set will remain the same over time. Features may be added, changed or removed at any point in time.",
+        "In the event of a technical failure, the developers will try to keep user data safe. However, there is no guarantee this will always be the case."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Technical support pricing",
+    "delta": {
+      "title": "Notice:",
+      "message": "Technical support for Delta is always free regardless of your current subscription plan. Simply select options %1on the support page%2 to get help with Delta from an administrator."
+    },
+    "ultra": "You are a Delta Ultra user, meaning you don't have to pay for technical support as long as all the support requests from the current month do not exceed the cost of your subscription (€%1).",
+    "base": "Base offers",
+    "descriptions": {
+      "base": "This is the price you are required to pay to get technical support. It depends on how the issue is dealt with and how much time the technician spends on your issue. Price per minute does not include time the technician doesn't work on your issue.",
+      "additional": "These are complementary items you can add to your support request, that require special intervention from a technician, and therefore, are not included in base offers. Price can vary depending on the complexity of the issue."
+    },
+    "offers": [
+      {
+        "title": "On-site hardware support",
+        "description": "Helping you with a device's hardware, such as replacing it or fixing it.",
+        "pricing": "5 min free, then €0.15/min"
+      },
+      {
+        "title": "On-site software support",
+        "description": "Helping you physically with your issue, useful when a device is unable to be remotely controlled.",
+        "pricing": "10 min free, then €0.10/min"
+      },
+      {
+        "title": "Off-site support with remote control",
+        "description": "Helping you by remotely controlling your device, when a problem can easily be fixed that way.",
+        "pricing": "10 min free, then €0.05/min"
+      },
+      {
+        "title": "Off-site support over telephone",
+        "description": "Helping you by giving instructions over the phone, when the issue is very easy to fix.",
+        "pricing": "10 min free, then €0.02/min"
+      },
+      {
+        "title": "Industry-standard check",
+        "description": "Checking your device using recognised long checks, useful before selling your device.",
+        "pricing": "€0.25/check"
+      },
+      {
+        "title": "Basic routine check",
+        "description": "Checking your device using short routine checks, useful to make sure your device is working.",
+        "pricing": "€0.10/check"
+      },
+      {
+        "title": "Deep hardware cleaning",
+        "description": "Cleaning your device's internals to remove dust and other dirt that can affect performance.",
+        "pricing": "€0.20/cleaning"
+      },
+      {
+        "title": "Operating system reinstall",
+        "description": "Completely reinstalling an operating system on your device, in the list of supported operating systems.",
+        "pricing": "€0.30/reinstall"
+      },
+      {
+        "title": "Operating system upgrade",
+        "description": "Upgrade the operating system of your device to a new version, in the list of supported operating systems, assuming it is supported by your device.",
+        "pricing": "€0.25/upgrade"
+      },
+      {
+        "title": "Malicious software removal",
+        "description": "Removing malicious software (“virus“) is often tricky, so a technician can remove it and make sure it has no chance of coming back.",
+        "pricing": "€0.15/software"
+      },
+      {
+        "title": "Tech support for older hardware",
+        "description": "Old hardware (over 15 years old) can be tricky to deal with, and therefore costs more. This is also to encourage users into using newer hardware.",
+        "pricing": "€0.50"
+      },
+      {
+        "title": "Voluntarily faulty hardware penalty",
+        "description": "If you ask the technicians to fix hardware you broke on purpose, you will be charged an extra amount of money for the wasted time.",
+        "pricing": "€1.00"
+      }
+    ],
+    "additional": "Complementary offers"
+  },
+  "pass": {
+    "title": "Events Pass",
+    "title2": "Scan an Events Pass",
+    "description": "If you participate in an event using Delta, you may be asked to show this QR code. It helps the event staff know who you are and what Delta subscription you have, so they can give you some perks. This does not give the event staff access to your Delta account.",
+    "mobile": "Access my Events Pass",
+    "scan": "I want to scan other people's Events Pass instead.",
+    "show": "I want to show my own Events Pass instead.",
+    "result": "Scanned Events Pass",
+    "items": [
+      "ID:",
+      "Name:",
+      "Age:",
+      "Subscription:",
+      "Privileges:",
+      "Registration:",
+      "Balance:",
+      "Email:",
+      "Phone:",
+      "Kiosk user:"
+    ],
+    "loading": "Gathering information, please wait...",
+    "yes": "Yes",
+    "no": "No",
+    "organizer": "Events Pass organiser",
+    "kiosk": "The Events Pass is not available when using a Delta kiosk. Open this page on your own device to access your Events Pass."
+  },
+  "kiosk": {
+    "shutdown": "Shutdown this kiosk",
+    "devtools": "Toggle developer options",
+    "disable": "Disable this kiosk",
+    "reload": "Reload this page"
+  },
+  "shortener": {
+    "copy": "Copy shortened link"
+  },
+  "admin": {
+    "title": "Administrator dashboard",
+    "titles": {
+      "codes": "Gift card codes",
+      "create": "Create a new object",
+      "objects": "Database objects",
+      "requests": "Pending requests",
+      "registrations": "Account registrations",
+      "support": "Support codes",
+      "avatars": "Profile pictures upload"
+    },
+    "save": "Save",
+    "json": "The data you sent is not valid JSON data. Check the syntax and try again.",
+    "auth": "Updating a user's email address may take a while to apply to the authentication server",
+    "types": {
+      "all": "Everything",
+      "articles": "Article",
+      "gallery": "Album",
+      "people": "Person",
+      "profiles": "Profile",
+      "requests": "Request"
+    },
+    "types2": {
+      "articles": "Articles",
+      "gallery": "Albums",
+      "people": "People",
+      "profiles": "Profiles",
+      "requests": "Requests"
+    },
+    "support": {
+      "search": "Look up",
+      "request": "Requested %1 by %2",
+      "edit": "edit",
+      "invalid": "This support code has expired or has does not exist.",
+      "profile": "Full user profile:"
+    },
+    "requests": {
+      "preview": {
+        "author": "from",
+        "target": "on"
+      },
+      "empty": "No contents provided",
+      "nothing": "There are no pending requests for now.",
+      "mark": "Mark as approved",
+      "merge": "Approve and merge",
+      "reject": "Reject",
+      "manual": "Manual changes required",
+      "notify": "Author will be notified of the decision taken",
+      "full": "View full request object",
+      "view": [
+        "ID:",
+        "Publish date:",
+        "User:",
+        "Target:",
+        "Summary:",
+        "Not applicable"
+      ]
+    },
+    "registrations": {
+      "nothing": "There are no pending registrations for now.",
+      "start": "open template",
+      "view": [
+        "UUID:",
+        "Identifier:",
+        "Submit date:",
+        "Name:",
+        "Contact methods:",
+        "Birth date:",
+        "Parents/guardian contact:",
+        "Language:"
+      ],
+      "reject": "Enter a reason why this registration was rejected. The user speaks %1."
+    },
+    "search": "Search objects in the Delta database...",
+    "modified": {
+      "title": "Unable to change this request:",
+      "description": "You cannot change this request as it was modified while you were reviewing it. Please review the request again."
+    },
+    "avatars": {
+      "none": "Click here to select a user",
+      "upload": "Upload new profile picture"
+    }
+  },
+  "oobe": {
+    "next": "Next",
+    "back": "Back",
+    "finish": "Done",
+    "pages": [
+      {
+        "title": "Welcome to Delta",
+        "description": "Your family, united again."
+      },
+      {
+        "title": "Here's what you'll find",
+        "items": [
+          "Content about people",
+          "Family knowledge",
+          "Beautiful photos"
+        ]
+      },
+      {
+        "title": "There you are",
+        "description": "You might already have your own page on Delta, you can find it once you are on board. If it's not there, you can ask for it to be created as well!",
+        "tip": "All your edits and requests will get reviewed by the administrators."
+      },
+      {
+        "title": "This is your home",
+        "description": "All Delta users have their own personal place called \"profile\". This is where they can share anything they want for all users to see!",
+        "tip": "You can access your profile by clicking on your icon (you might have to open the menu first)."
+      },
+      {
+        "title": "Bring knowledge with you",
+        "description": "Download the Delta for Android application and enjoy Delta wherever you are with a single tap on your phone.",
+        "tip": "The Delta for Android application is not yet available, but we will let you know once it is."
+      },
+      {
+        "title": "Help us keep Delta running",
+        "description": "Delta is free to use, however it costs a lot to operate. You can help us keep Delta free for everyone by subscribing to Delta Plus or Delta Ultra."
+      },
+      {
+        "title": "There you have it",
+        "description": "You are now ready to use Delta. You can use the integrated support feature if you need it. Click on Done to access Delta."
+      }
+    ]
+  },
+  "newgallery": {
+    "title": "Add images",
+    "intro": "Select the files you want to publish in this album.",
+    "upload": "Publish images",
+    "add": "Add another image",
+    "waiting": "Waiting for upload...",
+    "uploading": "Uploading to server...",
+    "remove": "Remove image",
+    "error": {
+      "message": "Upload failed due to the following error:",
+      "generic": "Upload failed"
+    },
+    "complete": "Upload completed",
+    "success": [
+      "Success: ",
+      "The images you have uploaded have been successfully submitted for review to the administrators."
+    ],
+    "picker": {
+      "title": "Select an image",
+      "upload": "Upload from your device",
+      "uploader": "Published by ",
+      "unknown": "Unknown publisher"
+    },
+    "notice": "Do you want to publish these images to be reviewed by the administrators? Make sure these are the right images before you send them, as you cannot change them afterwards.",
+    "summary": "Optionally describe these images and why they should be added to the album:"
+  },
+  "experimental": {
+    "title": "You are using an experimental version of Delta.",
+    "message": "Expect to encounter bugs and other major issues. In all cases, you can %1contact technical support%2 to report them."
+  },
+  "register": {
+    "title": "Registration",
+    "welcome": "Welcome to Delta!",
+    "intro": "We are going to guide you through registering for Delta. As Delta is a private application, you need approval from the administrators to enter, but we'll help you get this done in no time.",
+    "id": "During your registration process, the administrators may ask you for a document to prove your identity.",
+    "start": "Get started",
+    "continue": "Next",
+    "confirm": "Send registration",
+    "name": {
+      "title": "First, who are you?",
+      "description": "Delta is not anonymous, so we need to know who you are. Make sure to spell your name properly because you probably don't want to have to ask us to change it. If you are transgender, don't forget to indicate what we should call you.",
+      "last1": "Last name:",
+      "last2": "Enter your last name",
+      "first1": "First name:",
+      "first2": "Enter your first name",
+      "use1": "I am a transgender person and would like to be called",
+      "use2": "Enter your name",
+      "use3": "Leave this empty if you are not transgender"
+    },
+    "contact": {
+      "title": "Then, how can we reach you?",
+      "description": "It is important for the administrators to be able to reach you regarding your use of the application. Entering a phone number (make sure to include the country code, e.g. +33) is not required but can help when you need help with Delta.",
+      "email1": "Email address:",
+      "email2": "Enter your email address",
+      "phone1": "Phone number:",
+      "phone2": "Enter your phone number"
+    },
+    "birthday": {
+      "title": "How old are you?",
+      "description": "Some features of Delta are not accessible to people under a certain age. Make sure you enter your real age, as entering a fake one can get you permanently blocked off Delta. Note that you need to be at least 7 years old to access Delta.",
+      "day": "Day",
+      "month": "Month",
+      "year": "Year",
+      "underage1": "Since you are under 13, you need consent from your parent or guardian to access Delta. Enter their email address here:",
+      "underage2": "Enter the parent or guardian email address"
+    },
+    "rules": {
+      "title": "This is important",
+      "description": "Below are the Delta community rules. Make sure you read and understand them before continuing. If you have any questions about them, you can ask the administrators after you are registered."
+    },
+    "check": {
+      "title": "Just one more check!",
+      "description": "Make sure the information displayed here is correct, you can scroll back if you want to change it. Once you are sure it is correct, click on Next.",
+      "steps": [
+        "Your name is",
+        "Your email address is",
+        "Your phone number is",
+        "You are",
+        "years old",
+        "you were born on a",
+        "The email address of your parent or guardian is"
+      ]
+    },
+    "send": {
+      "title": "Time for takeoff!",
+      "description": "You have completed all the steps required to send your registration to Delta. You can double check that all the information you've entered is correct, and then send it.",
+      "email": "The administrators will contact you by email if they need additional information and to let you know about the decision taken.",
+      "email2": "The administrators will contact you at %1 if they need additional information about you (such as a way to prove your identity) and to let you know about the decision taken."
+    },
+    "complete": {
+      "title": "Now just you wait...",
+      "description": "You have successfully sent your registration to Delta, you should have received a confirmation email. We are now processing it and we will get back to you as soon as we can, please be patient!",
+      "thanks": "Thanks for using Delta."
+    },
+    "recaptcha": "This site is protected by reCAPTCHA, the Google %1privacy policy%2 and %3terms of service%4 apply.",
+    "errors": {
+      "captcha": "Our systems have detected you might be a robot and have prevented you from sending this registration form. If you believe this is an error, please try again.",
+      "invalid": "It appears some of the information sent to the server about your registration is either invalid or missing."
+    },
+    "email": {
+      "title": "[Delta] Registration confirmation #%1",
+      "content": [
+        "Hello %1,",
+        "Thank you for registering on Delta. We have received your registration and we will get back to you as soon as we can. In the meantime, feel free to talk about Delta with other family members, discover new features, and try to bring in new users on Delta to improve your experience.",
+        "If you have not requested to register on Delta, please reply to this email so we can unregister you. If you need help about your registration, you can reply to this email; you may be asked the following ID: %1. Please note that it may take up to 30 days for your registration to be reviewed.",
+        "See you soon on Delta!"
+      ],
+      "reason": "You are receiving this email because you have sent a registration to Delta."
+    },
+    "approved": {
+      "title": "[Delta] Your registration #%1 has been approved",
+      "content": [
+        "Hello %1,",
+        "Thank you for registering on Delta again. After reviewing your registration, we have decided you are all right and have completed your registration on Delta. You should now be able to log into Delta like any other user would and enjoy all the content that awaits you.",
+        "If you have not requested to register on Delta, or you do not want to use Delta anymore, please reply to this email so we can delete your account. If you are having trouble logging in, try again in a few hours.",
+        "See you soon on Delta!"
+      ]
+    },
+    "rejected": {
+      "title": "[Delta] Your registration #%1 has been rejected",
+      "content": [
+        "Hello %1,",
+        "Thank you for registering on Delta again. After reviewing your registration, we have decided you are not allowed on Delta and have reject your registration. %1",
+        "If you have not requested to register on Delta, simply ignore this email. If you believe this is an error and that you should be allowed on Delta, please reply to this email indicating why we are making a mistake.",
+        "Thank you.",
+        "We have decided not to provide a reason as to why your registration has been rejected.",
+        "Here is the reason we have provided:"
+      ]
+    }
+  },
+  "translation": {
+    "none": "This page is in %1 and it is not yet available in %2. A translation will be made available soon, please check back later.",
+    "notice": "This page was originally in %1 and has been automatically translated to %2 about %3. These translations are currently experimental and may not be 100% accurate.",
+    "available": "You are viewing the %1 version of this page, but a version in %2 is available. Note, however, that the translation version may not be 100% accurate.",
+    "original": "View original",
+    "translated": "View translated"
+  },
+  "nickname": {
+    "action": "Change nickname",
+    "title": "Nickname change",
+    "title2": "Change your nickname",
+    "requirements": "Your nickname must follow the following requirements for you to be able to use it on Delta:",
+    "confirm": "Confirm change",
+    "list": [
+      "Between 3 and 25 characters",
+      "No consecutive special characters",
+      "3 special characters or less",
+      "Start with a letter",
+      "End with a letter or digit",
+      "4 digits or less",
+      "At least 50% letters",
+      "At least %1 (50%) letters"
+    ],
+    "invalid": "One or more of the requirements are not met, cannot proceed with the nickname change. Please check the requirements below.",
+    "close": "Your nickname is too close to another user's name, nickname, or a person's page name. Please choose another nickname.",
+    "done": [
+      "Successfully changed nickname.",
+      "Your new nickname has been saved and will appear everywhere on Delta within a few minutes."
+    ]
+  }
+}
